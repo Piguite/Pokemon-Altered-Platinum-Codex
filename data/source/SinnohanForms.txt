@@ -1,0 +1,5499 @@
+o-----------------------------------o
+| Pokémon Altered Platinum          |
+| Sinnohan Forms (r1.0.5)           |
+o-----------------------------------o
+
+=========================================================
+General Notes
+=========================================================
+- Sinnohan Forms are new regional variants with the same general concept as Alolan Forms- new type, abilities, stats and moves.
+Unlike Alolan Forms, though, they totally replace the originals, due to engine limitations.
+They also cannot breed.
+
+There are a total of 30 Sinnohan Forms- three times the number of Alolan Forms, and 10 per region prior to Sinnoh.
+None of these have been rushed, and were completed gradually over a long period of time as new ideas came in.
+Though some might be a little overpowered, they were designed to be mostly balanced(compared to the new standard of power).
+It's singleplayer anyway, so it's not like it matters too much!
+A large blank space has been added below in case you decide to avoid spoilers.
+
+=========================================================
+Sinnohan Forms
+=========================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===================
+010 - Sinnohan Caterpie
+===================
+Type:
+Bug/Fairy
+
+Ability:
+Stench/Limber
+
+Evolution:
+Into Metapod-S at Level 10
+
+Stats: 
+55 HP / 30 Atk / 30 Def / 40 SAtk / 40 SDef / 20 Spd / 215 BST
+
+Level Up:
+1 - String Shot
+1 - Tackle
+2 - Poison Sting
+4 - Disarming Voice
+6 - Bug Bite
+8 - Sweet Kiss
+
+Tutor:
+Snore
+
+===================
+011 - Sinnohan Metapod
+===================
+Type:
+Bug/Fairy
+
+Ability:
+Unaware/Oblivious
+
+Evolution:
+Into Butterfree-S at Level 22
+
+Stats: 
+60 HP / 50 Atk / 80 Def / 70 SAtk / 90 SDef / 35 Spd / 385 BST
+
+Level Up:
+1 - Rest
+10 - Rest
+15 - Sleep Talk
+20 - Yawn
+
+Tutor:
+Iron Defense
+
+===================
+012 - Sinnohan Butterfree
+===================
+Type:
+Bug/Fairy
+
+Ability:
+Tinted Lens/Magic Guard
+
+Stats: 
+80 HP / 40 Atk / 90 Def / 100 SAtk / 130 SDef / 95 Spd / 535 BST
+
+Level Up:
+1 - Calm Mind
+1 - Yawn
+1 - Wish
+22 - Gust
+24 - Poison Powder
+24 - Sleep Powder
+24 - Stun Spore
+26 - Silver Wind
+28 - Air Cutter
+30 - Draining Kiss
+32 - Supersonic
+34 - Air Slash
+37 - Safeguard
+40 - Bug Buzz
+43 - Roost
+46 - Moonblast
+49 - Whirlwind
+52 - Tailwind
+55 - Psychic
+58 - Hurricane
+
+TM: 
+04 Calm Mind
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+20 Safeguard
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+42 Facade
+43 Secret Powder
+44 Rest
+45 Attract
+46 Thief
+48 Skill Swap
+51 Roost
+52 Focus Blast
+53 Energy Ball
+58 Endure
+62 Bug Buzz
+68 Giga Impact
+70 Flash
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+HM01 Cut
+HM02 Fly
+HM05 Defog
+
+Tutor:
+Air Cutter
+Ominous Wind
+Signal Beam
+Snore
+Swift
+Twister
+
+===================
+013 - Sinnohan Weedle
+===================
+Type:
+Bug/Electric
+
+Ability:
+Illuminate/Run Away
+
+Evolution:
+Into Kakuna-S at Level 10
+
+Stats: 
+30 HP / 45 Atk / 25 Def / 35 SAtk / 20 SDef / 60 Spd / 215 BST
+
+Level Up:
+1 - String Shot
+1 - Tackle
+2 - Fury Cutter
+4 - Thunder Shock
+6 - Bug Bite
+8 - Flash
+
+===================
+014 - Sinnohan Kakuna
+===================
+Type:
+Bug/Electric
+
+Ability:
+Battle Armor/Anger Point
+
+Evolution:
+Into Beedrill-S at Level 22
+
+Stats: 
+50 HP / 70 Atk / 80 Def / 60 SAtk / 90 SDef / 35 Spd / 385 BST
+
+Level Up:
+1 - Charge
+10 - Charge
+15 - Leer
+20 - Thunder Wave
+
+Tutor:
+Iron Defense
+
+===================
+015 - Sinnohan Beedrill
+===================
+Type:
+Bug/Electric
+
+Ability:
+Technician/Hustle
+
+Stats: 
+65 HP / 115 Atk / 50 Def / 110 SAtk / 65 SDef / 122 Spd / 527 BST
+
+Level Up:
+1 - Meteor Dive
+1 - Zap Cannon
+1 - Charge Beam
+15 - Leer
+20 - Thunder Wave
+22 - Spark
+24 - Silver Wind
+26 - Quick Attack
+28 - Pin Missile
+30 - Shock Wave
+32 - Focus Energy
+34 - Air Slash
+37 - Assurance
+40 - Leech Life
+43 - Tail Glow
+46 - Twinbulb
+49 - Thunderbolt
+52 - Endeavor
+55 - Outrage
+58 - Megahorn
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+27 Return
+31 Brick Break
+32 Double Team
+34 Shock Wave
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+51 Roost
+54 False Swipe
+57 Wild Charge
+58 Endure
+62 Bug Buzz
+66 Payback
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+75 Swords Dance
+78 Captivate
+81 X-Scissor
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM02 Fly
+HM05 Defog
+HM06 Rock Smash
+
+Tutor:
+Air Cutter
+Endeavor
+Fury Cutter
+Knock Off
+Ominous Wind
+Snore
+Swift
+
+===================
+026 - Sinnohan Raichu
+===================
+Type:
+Electric/Ice
+
+Ability:
+Static / Ice Body
+
+Stats: 
+80 HP / 60 Atk / 80 Def / 110 SAtk / 100 SDef / 105 Spd / 535 BST
+
+Level Up:
+1 - Encore
+1 - Parabolic Charge
+1 - Slack Off
+4 - Quick Attack
+7 - Thunder Wave
+11 - Double Kick
+13 - Shock Wave
+16 - Feint
+19 - Spark
+21 - Double Team
+23 - Aurora Beam
+26 - Thunderbolt
+29 - Nasty Plot
+33 - Ice Beam
+36 - Charge Beam
+39 - Hail
+42 - Thunder
+49 - Blizzard
+
+TM:
+01 Focus Punch
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+28 Dig
+31 Brick Break
+32 Double Team
+34 Shock Wave
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+52 Focus Blast
+56 Fling
+57 Wild Charge
+58 Endure
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Helping Hand
+Ice Punch
+Icy Wind
+Knock Off
+Magnet Rise
+Mud-Slap
+Rollout
+Signal Beam
+Snore
+Swift
+Thunder Punch
+
+===================
+027 - Sinnohan Sandshrew
+===================
+Type:
+Rock
+
+Ability:
+Battle Armor / Strong Body
+
+Evolution:
+Into Sandslash-S at Level 22
+
+Stats: 
+50 HP / 85 Atk / 110 Def / 15 SAtk / 30 SDef / 50 Spd / 330 BST
+
+Level Up:
+1 - Scratch
+1 - Defense Curl
+1 - Spikes
+1 - Accelerock
+7 - Rollout
+9 - Rock Tomb
+11 - Rapid Spin
+13 - Fury Cutter
+15 - Rock Polish
+18 - Magnitude
+21 - Fury Swipes
+24 - Slash
+24 - Night Slash
+27 - Dig
+30 - Gyro Ball
+33 - Swords Dance
+36 - Stone Edge
+39 - Drill Run
+42 - Sandstorm
+45 - Earthquake
+
+TM:
+01 Focus Punch
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+17 Protect
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+31 Brick Break
+32 Double Team
+37 Sandstorm
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+56 Fling
+58 Endure
+65 Shadow Claw
+69 Rock Polish
+71 Stone Edge
+72 Icicle Crash
+74 Gyro Ball
+75 Swords Dance
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+81 X-Scissor
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Ancient Power
+Earth Power
+Fury Cutter
+Iron Defense
+Iron Head
+Knock Off
+Mud-Slap
+Rollout
+Snore
+Swift
+
+===================
+028 - Sinnohan Sandslash
+===================
+Type:
+Rock
+
+Ability:
+Rough Skin / Strong Body
+
+Stats: 
+75 HP / 115 Atk / 150 Def / 35 SAtk / 55 SDef / 95 Spd / 525 BST
+
+Level Up:
+1 - Thunder Fang
+1 - Fire Fang
+1 - Ice Fang
+1 - Accelerock
+1 - Spikes
+9 - Rock Tomb
+11 - Rapid Spin
+13 - Fury Cutter
+15 - Rock Polish
+18 - Magnitude
+22 - Crush Claw
+25 - Slash
+25 - Night Slash
+29 - Dig
+33 - Gyro Ball
+37 - Swords Dance
+41 - Stone Edge
+45 - Drill Run
+49 - Sandstorm
+53 - Earthquake
+
+TM:
+01 Focus Punch
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+31 Brick Break
+32 Double Team
+37 Sandstorm
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+52 Focus Blast
+56 Fling
+58 Endure
+65 Shadow Claw
+68 Giga Impact
+69 Rock Polish
+71 Stone Edge
+72 Icicle Crash
+74 Gyro Ball
+75 Swords Dance
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+81 X-Scissor
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Ancient Power
+Earth Power
+Fury Cutter
+Knock Off
+Iron Defense
+Iron Head
+Mud-Slap
+Rollout
+Snore
+Sucker Punch
+Superpower
+Swift
+
+===================
+046 - Sinnohan Paras
+===================
+Type:
+Poison/Fairy
+
+Ability:
+Effect Spore/Shield Dust
+
+Evolution:
+Into Parasect-S at Level 24
+
+Stats: 
+45 HP / 70 Atk / 55 Def / 65 SAtk / 85 SDef / 30 Spd / 350 BST
+
+Level Up:
+1 - Roughhouse
+1 - Poison Sting
+7 - Absorb
+10 - Stun Spore
+10 - Poison Powder
+13 - Bug Bite
+16 - Draining Kiss
+19 - Spore
+22 - Sludge
+25 - Leech Life
+28 - Moonlight
+31 - Moonblast
+34 - Cross Poison
+37 - Knock Off
+40 - Giga Drain
+43 - Aromatherapy
+46 - Gunk Shot
+
+TM:
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+17 Protect
+19 Giga Drain
+21 Frustration
+27 Return
+28 Dig
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+36 Sludge Bomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+53 Energy Ball
+54 False Swipe
+58 Endure
+60 Drain Punch
+62 Bug Buzz
+65 Shadow Claw
+70 Flash
+75 Swords Dance
+78 Captivate
+79 Dark Pulse
+81 X-Scissor
+82 Sleep Talk
+84 Poison Jab
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+HM06 Rock Smash
+
+Tutor:
+Fury Cutter
+Gunk Shot
+Knock Off
+Seed Bomb
+Snore
+Synthesis
+
+===================
+047 - Sinnohan Parasect
+===================
+Type:
+Poison/Fairy
+
+Ability:
+Effect Spore/Shield Dust
+
+Stats:
+90 HP / 85 Atk / 110 Def / 90 SAtk / 130 SDef / 20 Spd / 525 BST
+
+Level Up:
+1 - Leech Seed
+1 - Play Rough
+7 - Absorb
+10 - Stun Spore
+10 - Poison Powder
+13 - Bug Bite
+16 - Draining Kiss
+19 - Spore
+22 - Sludge
+26 - Leech Life
+30 - Moonlight
+34 - Moonblast
+38 - Cross Poison
+42 - Knock Off
+46 - Giga Drain
+50 - Aromatherapy
+54 - Gunk Shot
+59 - Play Rough
+
+TM:
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+15 Hyper Beam
+17 Protect
+19 Giga Drain
+21 Frustration
+27 Return
+28 Dig
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+36 Sludge Bomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+53 Energy Ball
+54 False Swipe
+58 Endure
+60 Drain Punch
+62 Bug Buzz
+65 Shadow Claw
+68 Giga Impact
+70 Flash
+75 Swords Dance
+78 Captivate
+79 Dark Pulse
+81 X-Scissor
+82 Sleep Talk
+84 Poison Jab
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Fury Cutter
+Gunk Shot
+Knock Off
+Seed Bomb
+Snore
+Synthesis
+
+===================
+058 - Sinnohan Growlithe
+===================
+Type:
+Ice
+
+Ability:
+Water Absorb/Intimidate
+
+Evolution:
+Into Arcanine-S with an Ice Stone
+
+Stats: 
+55 HP / 70 Atk / 40 Def / 70 SAtk / 45 SDef / 70 Spd / 350 BST
+
+Level Up:
+1 - Bite
+1 - Leer
+1 - Roar
+1 - Howl
+7 - Ice Shard
+11 - Odor Sleuth
+13 - Helping Hand
+15 - Ice Fang
+18 - Reversal
+21 - Take Down
+23 - Aurora Beam
+25 - Agility
+28 - Icicle Crash
+31 - Crunch
+33 - Outrage
+35 - Ice Beam
+38 - Moonlight
+41 - Play Rough
+46 - Blizzard
+
+TM:
+03 Water Pulse
+05 Roar
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+28 Dig
+32 Double Team
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+55 Scald
+58 Endure
+72 Icicle Crash
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Aqua Tail
+Dive
+Helping Hand
+Icy Wind
+Mud-Slap
+Outrage
+Snore
+Swift
+
+===================
+059 - Sinnohan Arcanine
+===================
+Type:
+Ice
+
+Ability:
+Water Absorb/Intimidate
+
+Stats: 
+85 HP / 115 Atk / 70 Def / 105 SAtk / 75 SDef / 105 Spd / 555 BST
+
+Level Up:
+1 - Extreme Speed
+1 - Roar
+1 - Close Combat
+7 - Ice Shard
+11 - Odor Sleuth
+13 - Helping Hand
+15 - Ice Fang
+18 - Reversal
+21 - Take Down
+23 - Aurora Beam
+25 - Agility
+28 - Icicle Crash
+31 - Crunch
+33 - Outrage
+35 - Ice Beam
+38 - Moonlight
+41 - Play Rough
+46 - Blizzard
+50 - Extreme Speed
+
+TM:
+03 Water Pulse
+05 Roar
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+28 Dig
+32 Double Team
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+53 Energy Ball
+55 Scald
+58 Endure
+59 Dragon Pulse
+68 Giga Impact
+72 Icicle Crash
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Aqua Tail
+Dive
+Helping Hand
+Icy Wind
+Iron Head
+Mud-Slap
+Outrage
+Snore
+Swift
+
+===================
+077 - Sinnohan Ponyta
+===================
+Type:
+Water/Fairy
+
+Ability:
+Adaptability/Marvel Scale
+
+Evolution:
+Into Rapidash-S at Level 35.
+
+Stats: 
+65 HP / 50 Atk / 65 Def / 100 SAtk / 65 SDef / 105 Spd / 450 BST
+
+Level Up:
+1 - Disarming Voice
+1 - Growl
+1 - Tail Whip
+7 - Water Gun
+10 - Swift
+13 - Acid Armor
+16 - Water Pulse
+19 - Take Down
+22 - Aqua Ring
+25 - Agility
+28 - Hypnosis
+31 - Aurora Beam
+34 - Surf
+37 - Hyper Voice
+40 - Moonblast
+43 - Psychic
+46 - Hydro Pump
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+29 Psychic
+32 Double Team
+33 Reflect
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+55 Scald
+58 Endure
+59 Dragon Pulse
+72 Icicle Crash
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM07 Waterfall
+
+Tutor:
+Aqua Tail
+Bounce
+Dive
+Icy Wind
+Snore
+Swift
+Zen Headbutt
+
+===================
+078 - Sinnohan Rapidash
+===================
+Type:
+Water/Fairy
+
+Ability:
+Adaptability/Marvel Scale
+
+Stats: 
+90 HP / 50 Atk / 75 Def / 120 SAtk / 95 SDef / 110 Spd / 530 BST
+
+Level Up:
+1 - Nasty Plot
+1 - Moonblast
+1 - Hydro Pump
+1 - Disarming Voice
+1 - Rain Dance
+7 - Water Gun
+10 - Swift
+13 - Acid Armor
+16 - Water Pulse
+19 - Take Down
+22 - Aqua Ring
+25 - Agility
+28 - Hypnosis
+31 - Aurora Beam
+34 - Surf
+35 - Calm Mind
+38 - Hyper Voice
+42 - Moonblast
+46 - Psychic
+50 - Hydro Pump
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+29 Psychic
+32 Double Team
+33 Reflect
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+55 Scald
+58 Endure
+59 Dragon Pulse
+72 Icicle Crash
+68 Giga Impact
+78 Captivate
+82 Sleep Talk
+84 Poison Jab
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM07 Waterfall
+
+Tutor:
+Aqua Tail
+Bounce
+Dive
+Icy Wind
+Snore
+Swift
+Zen Headbutt
+
+===================
+123 - Sinnohan Scyther
+===================
+Type:
+Bug/Ice
+
+Ability:
+Technician/Deadeye
+
+Evolution:
+Evolves into Scizor-S by using a Metal Coat.
+
+Stats: 
+80 HP / 110 Atk / 60 Def / 105 SAtk / 50 SDef / 120 Spd / 525 BST
+
+Level Up:
+1 - Ice Shard
+1 - Vacuum Wave
+1 - Silver Wind
+7 - Pursuit
+10 - False Swipe
+13 - Fury Cutter
+16 - Agility
+19 - Icy Wind
+22 - Night Slash
+25 - Bug Bite
+28 - Icicle Crash
+31 - Double Team
+34 - X-Scissor
+37 - Triple Axel
+40 - Knock Off
+43 - Swords Dance
+46 - Baton Pass
+49 - Close Combat
+52 - Leech Life
+55 - Icicle Spear
+
+TM:
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+27 Return
+31 Brick Break
+32 Double Team
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+51 Roost
+58 Endure
+62 Bug Buzz
+68 Giga Impact
+72 Icicle Crash
+75 Swords Dance
+78 Captivate
+81 X-Scissor
+82 Sleep Talk
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM05 Defog
+HM06 Rock Smash
+
+Tutor:
+Fury Cutter
+Icy Wind
+Knock Off
+Ominous Wind
+Snore
+Swift
+
+===================
+212 - Sinnohan Scizor
+===================
+Type:
+Steel/Ice
+
+Ability:
+Technician/Heatproof
+
+Stats: 
+80 HP / 120 Atk / 100 Def / 75 SAtk / 85 SDef / 65 Spd / 525 BST
+
+Level Up:
+1 - Ice Shard
+1 - Bullet Punch
+1 - Leech Life
+7 - Pursuit
+10 - False Swipe
+13 - Fury Cutter
+16 - Agility
+19 - Icy Wind
+22 - Night Slash
+25 - Bug Bite
+28 - Icicle Crash
+31 - Iron Defense
+34 - X-Scissor
+37 - Triple Axel
+40 - Iron Head
+43 - Swords Dance
+46 - Baton Pass
+49 - Close Combat
+52 - Leech Life
+55 - Icicle Spear
+
+TM:
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+27 Return
+31 Brick Break
+32 Double Team
+37 Sandstorm
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+51 Roost
+54 False Swipe
+56 Fling
+58 Endure
+62 Bug Buzz
+68 Giga Impact
+72 Icicle Crash
+75 Swords Dance
+78 Captivate
+81 X-Scissor
+82 Sleep Talk
+87 Swagger
+89 U-turn
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+
+Tutor:
+Fury Cutter
+Iron Defense
+Iron Head
+Icy Wind
+Knock Off
+Ominous Wind
+Snore
+Superpower
+Swift
+
+===================
+137 - Sinnohan Porygon
+===================
+Type:
+Electric
+
+Ability:
+Levitate
+
+Evolution:
+Into Porygon2-S by using an Up-Grade
+
+Stats: 
+65 HP / 40 Atk / 75 Def / 85 SAtk / 75 SDef / 50 Spd / 390 BST
+
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Thunder Shock
+7 - Shock Wave
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+22 - Recycle
+25 - Tri Attack
+28 - Parabolic Charge
+31 - Lock-On
+34 - Nasty Plot
+37 - Thunder
+40 - Trick Room
+43 - Psychic
+46 - Ice Beam
+49 - Zap Cannon
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+34 Shock Wave
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+46 Thief
+57 Wild Charge
+58 Endure
+62 Bug Buzz
+67 Recycle
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+77 Psych Up
+82 Sleep Talk
+87 Swagger
+90 Substitute
+92 Trick Room
+
+Tutor:
+Icy Wind
+Last Resort
+Magnet Rise
+Signal Beam
+Snore
+Swift
+Trick
+Zen Headbutt
+
+===================
+233 - Sinnohan Porygon2
+===================
+Type:
+Electric
+
+Ability:
+Levitate
+
+Evolution:
+Into Porygon-Z-S by using a Dubious Disc
+
+Stats: 
+95 HP / 40 Atk / 105 Def / 105 SAtk / 105 SDef / 85 Spd / 535 BST
+
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Thunder Shock
+7 - Shock Wave
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+22 - Recycle
+25 - Tri Attack
+28 - Parabolic Charge
+31 - Lock-On
+34 - Nasty Plot
+37 - Thunder
+40 - Trick Room
+43 - Psychic
+46 - Ice Beam
+49 - Zap Cannon
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+34 Shock Wave
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+46 Thief
+57 Wild Charge
+58 Endure
+62 Bug Buzz
+67 Recycle
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+77 Psych Up
+82 Sleep Talk
+87 Swagger
+90 Substitute
+92 Trick Room
+
+Tutor:
+Icy Wind
+Last Resort
+Magnet Rise
+Signal Beam
+Snore
+Swift
+Trick
+Zen Headbutt
+
+===================
+474 - Sinnohan Porygon-Z
+===================
+Type:
+Electric
+
+Ability:
+Levitate
+
+Stats: 
+85 HP / 70 Atk / 70 Def / 130 SAtk / 70 SDef / 110 Spd / 535 BST
+
+Level Up:
+1 - Conversion 2
+1 - Conversion
+1 - Thunder Shock
+7 - Shock Wave
+10 - Agility
+13 - Recover
+16 - Charge Beam
+19 - Signal Beam
+22 - Recycle
+25 - Tri Attack
+28 - Parabolic Charge
+31 - Lock-On
+34 - Nasty Plot
+37 - Thunder
+40 - Trick Room
+43 - Psychic
+46 - Ice Beam
+49 - Zap Cannon
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+34 Shock Wave
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+46 Thief
+57 Wild Charge
+58 Endure
+62 Bug Buzz
+67 Recycle
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+77 Psych Up
+82 Sleep Talk
+87 Swagger
+90 Substitute
+92 Trick Room
+
+Tutor:
+Icy Wind
+Last Resort
+Magnet Rise
+Signal Beam
+Snore
+Swift
+Trick
+Zen Headbutt
+
+===================
+147 - Sinnohan Dratini
+===================
+Type:
+Water/Dragon
+
+Ability:
+Swift Swim/Shed Skin
+
+Evolution:
+Into Dragonair-S at Level 30
+
+Stats: 
+50 HP / 50 Atk / 40 Def / 65 SAtk / 45 SDef / 55 Spd / 300 BST
+
+Level Up:
+1 - Wrap
+1 - Leer
+7 - Water Gun
+10 - Dragon Breath
+13 - Aqua Jet
+16 - Dragon Rage
+19 - Slam
+22 - Agility
+25 - Dragon Pulse
+28 - Aqua Tail
+31 - Safeguard
+34 - Scald
+37 - Dragon Dance
+40 - Extreme Speed
+43 - Outrage
+46 - Hydro Pump
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+32 Double Team
+34 Shock Wave
+36 Sludge Bomb
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+55 Scald
+58 Endure
+59 Dragon Pulse
+72 Icicle Crash
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM07 Waterfall
+
+Tutor:
+Aqua Tail
+Dive
+Draco Meteor
+Icy Wind
+Outrage
+Snore
+Swift
+
+===================
+148 - Sinnohan Dragonair
+===================
+Type:
+Water/Dragon
+
+Ability:
+Swift Swim/Shed Skin
+
+Evolution:
+Into Dragonite-S at Level 45
+
+Stats: 
+70 HP / 70 Atk / 55 Def / 85 SAtk / 65 SDef / 75 Spd / 420 BST
+
+Level Up:
+1 - Wrap
+1 - Leer
+7 - Water Gun
+10 - Dragon Breath
+13 - Aqua Jet
+16 - Dragon Rage
+19 - Slam
+22 - Agility
+25 - Dragon Pulse
+28 - Aqua Tail
+32 - Safeguard
+36 - Scald
+40 - Dragon Dance
+44 - Extreme Speed
+48 - Outrage
+52 - Hydro Pump
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+29 Psychic
+32 Double Team
+34 Shock Wave
+36 Sludge Bomb
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+55 Scald
+58 Endure
+59 Dragon Pulse
+72 Icicle Crash
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM03 Surf
+HM07 Waterfall
+
+Tutor:
+Aqua Tail
+Dive
+Draco Meteor
+Icy Wind
+Outrage
+Snore
+Swift
+
+===================
+149 - Sinnohan Dragonite
+===================
+Type:
+Water/Dragon
+
+Ability:
+Swift Swim/Shed Skin
+
+Stats: 
+100 HP / 100 Atk / 90 Def / 125 SAtk / 95 SDef / 90 Spd / 600 BST
+
+Level Up:
+1 - Fire Punch
+1 - Ice Punch
+1 - Recover
+1 - Wrap
+7 - Water Gun
+10 - Dragon Breath
+13 - Aqua Jet
+16 - Dragon Rage
+19 - Slam
+22 - Agility
+25 - Dragon Pulse
+28 - Aqua Tail
+32 - Safeguard
+36 - Scald
+40 - Dragon Dance
+44 - Extreme Speed
+48 - Outrage
+52 - Hydro Pump
+55 - Dragon Claw
+60 - Draco Meteor
+
+TM:
+01 Focus Punch
+02 Dragon Claw
+03 Water Pulse
+04 Calm Mind
+05 Roar
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Return
+29 Psychic
+31 Brick Break
+32 Double Team
+34 Shock Wave
+36 Sludge Bomb
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+48 Skill Swap
+52 Focus Blast
+55 Scald
+58 Endure
+59 Dragon Pulse
+72 Icicle Crash
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+HM01 Cut
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+HM07 Waterfall
+HM08 Rock Climb
+
+Tutor:
+Aqua Tail
+Dive
+Draco Meteor
+Fury Cutter
+Gunk Shot
+Ice Punch
+Icy Wind
+Iron Head
+Mud-Slap
+Outrage
+Snore
+Sucker Punch
+Superpower
+Swift
+Thunder Punch
+Zen Headbutt
+
+===================
+161 - Sinnohan Sentret
+===================
+Type:
+Normal/Ice
+
+Ability:
+Frisk/Run Away
+
+Evolution:
+Into Furret-S at Level 22
+
+Stats: 
+35 HP / 65 Atk / 45 Def / 45 SAtk / 45 SDef / 70 Spd / 305 BST
+
+Level Up:
+1 - Powder Snow
+1 - Foresight
+1 - Defense Curl
+1 - Quick Attack
+5 - Roughhouse
+7 - Ice Shard
+9 - Helping Hand
+11 - Slam
+13 - Ice Ball
+15 - Pursuit
+17 - Rest
+20 - Ice Fang
+23 - Zen Headbutt
+26 - Thief
+29 - Icicle Crash
+32 - Baton Pass
+35 - Play Rough
+38 - Sucker Punch
+41 - Ice Beam
+44 - Double-Edge
+
+TM:
+01 Focus Punch
+03 Water Pulse
+06 Toxic
+07 Hail
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+24 Thunderbolt
+27 Return
+28 Dig
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+34 Shock Wave
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+56 Fling
+58 Endure
+65 Shadow Claw
+72 Icicle Crash
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+86 Grass Knot
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM03 Surf
+
+Tutor:
+Aqua Tail
+Dive
+Earth Power
+Fury Cutter
+Helping Hand
+Ice Punch
+Icy Wind
+Knock Off
+Last Resort
+Mud-Slap
+Rollout
+Snore
+Sucker Punch
+Swift
+Thunder Punch
+Uproar
+
+===================
+162 - Sinnohan Furret
+===================
+Type:
+Normal/Ice
+
+Ability:
+Instinct/Scrappy
+
+Stats: 
+80 HP / 110 Atk / 75 Def / 95 SAtk / 65 SDef / 115 Spd / 540 BST
+
+Level Up:
+1 - Extreme Speed
+1 - Reversal
+1 - Hyper Voice
+1 - Quick Attack
+1 - Knock Off
+1 - Ice Punch
+7 - Ice Shard
+9 - Helping Hand
+13 - Ice Ball
+15 - Pursuit
+17 - Rest
+20 - Ice Fang
+23 - Zen Headbutt
+26 - Thief
+30 - Icicle Crash
+34 - Baton Pass
+38 - Play Rough
+42 - Sucker Punch
+46 - Ice Beam
+50 - Double-Edge
+
+TM:
+01 Focus Punch
+03 Water Pulse
+06 Toxic
+07 Hail
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+24 Thunderbolt
+25 Thunder
+27 Return
+28 Dig
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+34 Shock Wave
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+52 Focus Blast
+56 Fling
+58 Endure
+65 Shadow Claw
+72 Icicle Crash
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+86 Grass Knot
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+HM07 Waterfall
+
+Tutor:
+Aqua Tail
+Dive
+Earth Power
+Fury Cutter
+Helping Hand
+Ice Punch
+Icy Wind
+Knock Off
+Last Resort
+Mud-Slap
+Rollout
+Snore
+Sucker Punch
+Swift
+Thunder Punch
+Uproar
+
+===================
+163 - Sinnohan Hoothoot
+===================
+Type:
+Ice/Flying
+
+Ability:
+Snow Cloak/Magic Guard
+
+Evolution:
+Into Noctowl-S at Level 28
+
+Stats: 
+60 HP / 30 Atk / 30 Def / 66 SAtk / 56 SDef / 60 Spd / 302 BST
+
+Level Up:
+1 - Tackle
+1 - Growl
+1 - Foresight
+1 - Gust
+6 - Hypnosis
+9 - Powder Snow
+12 - Air Cutter
+15 - Ominous Wind
+18 - Icy Wind
+21 - Hail
+24 - Air Slash
+27 - Curse
+30 - Ice Beam
+33 - Destiny Bond
+36 - Moonblast
+39 - Roost
+42 - Blizzard
+45 - Hurricane
+
+TM:
+03 Water Pulse
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+17 Protect
+18 Rain Dance
+21 Frustration
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+51 Roost
+55 Scald
+58 Endure
+65 Shadow Claw
+67 Recycle
+72 Icicle Crash
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+87 Swagger
+88 Hurricane
+90 Substitute
+HM02 Fly
+HM05 Defog
+
+Tutor:
+Air Cutter
+Icy Wind
+Mud-Slap
+Ominous Wind
+Spite
+Swift
+Uproar
+Zen Headbutt
+
+===================
+164 - Sinnohan Noctowl
+===================
+Type:
+Ghost/Flying
+
+Ability:
+Ice Body/Magic Guard
+
+Stats: 
+100 HP / 40 Atk / 80 Def / 116 SAtk / 116 SDef / 80 Spd / 532 BST
+
+Level Up:
+1 - Mean Look
+1 - Nasty Plot
+1 - Tailwind
+1 - Teleport
+1 - Esper Wing
+6 - Hypnosis
+9 - Powder Snow
+12 - Air Cutter
+15 - Ominous Wind
+18 - Icy Wind
+22 - Hail
+26 - Air Slash
+28 - Shadow Ball
+30 - Curse
+34 - Ice Beam
+38 - Destiny Bond
+42 - Moonblast
+46 - Roost
+50 - Blizzard
+54 - Hurricane
+
+TM:
+03 Water Pulse
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+51 Roost
+55 Scald
+58 Endure
+65 Shadow Claw
+67 Recycle
+68 Giga Impact
+72 Icicle Crash
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+87 Swagger
+88 Hurricane
+90 Substitute
+HM02 Fly
+HM05 Defog
+
+Tutor:
+Air Cutter
+Icy Wind
+Mud-Slap
+Ominous Wind
+Spite
+Swift
+Uproar
+Zen Headbutt
+
+===================
+167 - Sinnohan Spinarak
+===================
+Type:
+Bug/Dark
+
+Ability:
+Intimidate/Hustle
+
+Evolution:
+Into Ariados-S at Level 22
+
+Stats: 
+50 HP / 90 Atk / 40 Def / 20 SAtk / 50 SDef / 60 Spd / 310 BST
+
+Level Up:
+1 - Bite
+1 - String Shot
+9 - Bug Bite
+11 - Scary Face
+13 - Night Slash
+15 - Night Shade
+18 - Shadow Sneak
+20 - Leech Life
+23 - Fury Swipes
+25 - Shadow Claw
+27 - Spider Web
+29 - Crunch
+32 - Sucker Punch
+35 - Pin Missile
+38 - Poison Jab
+40 - Vampire Fangs
+43 - Zen Headbutt
+45 - Megahorn
+
+
+TM:
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+12 Taunt
+17 Protect
+21 Frustration
+22 Solar Beam
+27 Return
+28 Dig
+29 Psychic
+32 Double Team
+36 Sludge Bomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+49 Snatch
+54 False Swipe
+56 Fling
+58 Endure
+62 Bug Buzz
+63 Embargo
+65 Shadow Claw
+66 Payback
+70 Flash
+78 Captivate
+79 Dark Pulse
+81 X-Scissor
+82 Sleep talk
+84 Poison Jab
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+
+Tutor:
+Bounce
+Knock Off
+Signal Beam
+Sucker Punch
+
+===================
+168 - Sinnohan Ariados
+===================
+Type:
+Bug/Dark
+
+Ability:
+Intimidate/Hustle
+
+Stats: 
+80 HP / 130 Atk / 80 Def / 50 SAtk / 90 SDef / 97 Spd / 527 BST
+
+Level Up:
+1 - Focus Energy
+1 - Agility
+9 - Bug Bite
+11 - Scary Face
+13 - Night Slash
+15 - Night Shade
+18 - Shadow Sneak
+20 - Leech Life
+22 - Swords Dance
+24 - Fury Swipes
+27 - Shadow Claw
+30 - Spider Web
+33 - Crunch
+37 - Sucker Punch
+41 - Pin Missile
+45 - Poison Jab
+48 - Vampire Fangs
+52 - Zen Headbutt
+55 - Megahorn
+
+TM:
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+12 Taunt
+15 Hyper Beam
+17 Protect
+21 Frustration
+22 Solar Beam
+27 Return
+28 Dig
+29 Psychic
+32 Double Team
+36 Sludge Bomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+49 Snatch
+54 False Swipe
+56 Fling
+58 Endure
+62 Bug Buzz
+63 Embargo
+65 Shadow Claw
+66 Payback
+68 Giga Impact
+70 Flash
+75 Swords Dance
+78 Captivate
+79 Dark Pulse
+81 X-Scissor
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+
+Tutor:
+Bounce
+Knock Off
+Signal Beam
+Sucker Punch
+
+===================
+170 - Sinnohan Chinchou
+===================
+Type:
+Water/Ghost
+
+Ability:
+Shield Dust/Rain Dish
+
+Evolution:
+Into Lanturn-S at Level 27
+
+Stats: 
+75 HP / 40 Atk / 60 Def / 60 SAtk / 70 SDef / 35 Spd / 340 BST
+
+Level Up:
+1 - Bubble
+1 - Scary Face
+1 - Haze
+6 - Shadow Sneak
+9 - Water Gun
+12 - Night Shade
+15 - Confuse Ray
+18 - Ominous Wind
+21 - Bubble Beam
+24 - Signal Beam
+27 - Will-O-Wisp
+30 - Recover
+33 - Shadow Ball
+36 - Teleport
+39 - Aqua Ring
+42 - Hydro Pump
+45 - Shadow Force
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+24 Thunderbolt
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+48 Skill Swap
+55 Scald
+58 Endure
+61 Will-O-Wisp
+65 Shadow Claw
+70 Flash
+78 Captivate
+79 Dark Pulse
+82 Sleep Talk
+83 Hyper Voice
+87 Swagger
+90 Substitute
+92 Trick Room
+HM03 Surf
+HM05 Defog
+HM07 Waterfall
+
+Tutor:
+Bounce
+Dive
+Icy Wind
+Ominous Wind
+Signal Beam
+Snore
+Spite
+Sucker Punch
+
+===================
+171 - Sinnohan Lanturn
+===================
+Type:
+Water/Ghost
+
+Ability:
+Shield Dust/Rain Dish
+
+Stats: 
+135 HP / 55 Atk / 80 Def / 90 SAtk / 100 SDef / 60 Spd / 520 BST
+
+Level Up:
+1 - Bubble
+1 - Scary Face
+1 - Haze
+6 - Shadow Sneak
+9 - Water Gun
+12 - Night Shade
+15 - Confuse Ray
+18 - Ominous Wind
+21 - Bubble Beam
+24 - Signal Beam
+29 - Will-O-Wisp
+33 - Recover
+37 - Shadow Ball
+41 - Teleport
+45 - Aqua Ring
+49 - Hydro Pump
+53 - Shadow Force
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+24 Thunderbolt
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+48 Skill Swap
+55 Scald
+58 Endure
+61 Will-O-Wisp
+65 Shadow Claw
+68 Giga Impact
+70 Flash
+78 Captivate
+79 Dark Pulse
+82 Sleep Talk
+83 Hyper Voice
+87 Swagger
+90 Substitute
+92 Trick Room
+HM03 Surf
+HM05 Defog
+HM07 Waterfall
+
+Tutor:
+Bounce
+Dive
+Icy Wind
+Ominous Wind
+Signal Beam
+Snore
+Spite
+Sucker Punch
+
+===================
+175 - Sinnohan Togepi
+===================
+Type:
+Grass
+
+Ability:
+Water Absorb/Hustle
+
+Evolution:
+Into Togetic-S by leveling up while knowing Dragon Dance
+
+Stats: 
+35 HP / 30 Atk / 85 Def / 30 SAtk / 65 SDef / 20 Spd / 265 BST
+
+Level Up:
+1 - Harden
+1 - Growth
+1 - Lucky Chant
+1 - Vine Whip
+5 - Water Gun
+8 - Sweet Kiss
+11 - Yawn
+13 - Encore
+15 - Razor Leaf
+17 - Follow Me
+19 - Wish
+21 - Dragon Dance
+23 - Aqua Jet
+25 - Synthesis
+27 - Baton Pass
+29 - Seed Bomb
+31 - Uproar
+33 - Double-Edge
+35 - Power Whip
+
+TM:
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+20 Safeguard
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+34 Shock Wave
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+55 Scald
+56 Fling
+58 Endure
+70 Flash
+73 Thunder Wave
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM06 Rock Smash
+
+Tutor:
+Endeavor
+Mud-Slap
+Rollout
+Seed Bomb
+Signal Beam
+Snore
+Swift
+Synthesis
+Trick
+Uproar
+Zen Headbutt
+
+===================
+176 - Sinnohan Togetic
+===================
+Type:
+Grass/Dragon
+
+Ability:
+Thick Fat/Serene Grace
+
+Evolution:
+Into Togekiss-S with a Leaf Stone
+
+Stats: 
+55 HP / 85 Atk / 110 Def / 40 SAtk / 75 SDef / 40 Spd / 420 BST
+
+Level Up:
+1 - Leaf Blade
+1 - Dragon Claw
+1 - Crunch
+1 - Brave Bird
+1 - Baton Pass
+1 - Metronome
+1 - Extreme Speed
+11 - Yawn
+13 - Encore
+15 - Razor Leaf
+17 - Follow Me
+19 - Wish
+21 - Dragon Dance
+23 - Aqua Jet
+25 - Synthesis
+27 - Sleep Powder
+29 - Seed Bomb
+31 - Wave Crash
+33 - Meteor Dive
+35 - Power Whip
+
+TM:
+01 Focus Punch
+02 Dragon Claw
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+20 Safeguard
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+33 Reflect
+34 Shock Wave
+35 Flamethrower
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+51 Roost
+53 Energy Ball
+55 Scald
+56 Fling
+58 Endure
+59 Dragon Pulse
+60 Drain Punch
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+86 Grass Knot
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+HM01 Cut
+HM02 Fly
+HM03 Surf
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM07 Waterfall
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Endeavor
+Mud-Slap
+Ominous Wind
+Outrage
+Rollout
+Seed Bomb
+Signal Beam
+Snore
+Swift
+Synthesis
+Trick
+Uproar
+Zen Headbutt
+
+===================
+468 - Sinnohan Togekiss
+===================
+Type:
+Grass/Dragon
+
+Ability:
+Thick Fat/Serene Grace
+
+Stats: 
+85 HP / 120 Atk / 125 Def / 50 SAtk / 90 SDef / 80 Spd / 550 BST
+
+Level Up:
+1 - Leaf Blade
+1 - Close Combat
+1 - Brave Bird
+1 - Baton Pass
+1 - Crunch
+1 - Extreme Speed
+1 - Dragon Rush
+13 - Encore
+15 - Razor Leaf
+17 - Follow Me
+19 - Wish
+21 - Dragon Dance
+24 - Aqua Jet
+26 - Synthesis
+28 - Sleep Powder
+31 - Seed Bomb
+34 - Wave Crash
+37 - Meteor Dive
+40 - Power Whip
+43 - Sekai Slam
+
+TM:
+01 Focus Punch
+02 Dragon Claw
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+20 Safeguard
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+33 Reflect
+34 Shock Wave
+35 Flamethrower
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+51 Roost
+53 Energy Ball
+55 Scald
+56 Fling
+58 Endure
+59 Dragon Pulse
+60 Drain Punch
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+86 Grass Knot
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+HM01 Cut
+HM02 Fly
+HM03 Surf
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM07 Waterfall
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Endeavor
+Mud-Slap
+Ominous Wind
+Outrage
+Rollout
+Seed Bomb
+Signal Beam
+Snore
+Swift
+Synthesis
+Trick
+Uproar
+Zen Headbutt
+
+===================
+179 - Sinnohan Mareep
+===================
+Type:
+Grass/Normal
+
+Ability:
+Unaware/Natural Cure
+
+Evolution:
+Into Flaaffy-S at Level 15
+
+Stats: 
+60 HP / 25 Atk / 45 Def / 65 SAtk / 50 SDef / 35 Spd / 280 BST
+
+Level Up:
+1 - Absorb
+1 - Growth
+4 - Leech Seed
+7 - Mega Drain
+10 - Cotton Spore
+13 - Synthesis
+16 - Swift
+19 - Sleep Powder
+22 - Sunny Day
+25 - Giga Drain
+31 - Hyper Voice
+34 - Bubble Beam
+37 - Light Screen
+40 - Heal Bell
+43 - Draining Kiss
+
+TM:
+01 Focus Punch
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+27 Return
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+36 Sludge Bomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+56 Fling
+58 Endure
+70 Flash
+78 Captivate
+79 Dark Pulse
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Earth Power
+Last Resort
+Mud-Slap
+Seed Bomb
+Snore
+Swift
+Synthesis
+Zen Headbutt
+
+===================
+180 - Sinnohan Flaaffy
+===================
+Type:
+Grass/Normal
+
+Ability:
+Unaware/Natural Cure
+
+Evolution:
+Into Ampharos-S at Level 30
+
+Stats: 
+80 HP / 35 Atk / 60 Def / 80 SAtk / 65 SDef / 45 Spd / 365 BST
+
+Level Up:
+1 - Absorb
+1 - Growth
+4 - Leech Seed
+7 - Mega Drain
+10 - Cotton Spore
+13 - Synthesis
+17 - Swift
+21 - Sleep Powder
+25 - Sunny Day
+29 - Giga Drain
+33 - Hyper Voice
+37 - Bubble Beam
+41 - Light Screen
+45 - Heal Bell
+49 - Draining Kiss
+53 - Hyper Beam
+
+TM:
+01 Focus Punch
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+27 Return
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+36 Sludge Bomb
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+56 Fling
+58 Endure
+70 Flash
+78 Captivate
+79 Dark Pulse
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Earth Power
+Last Resort
+Mud-Slap
+Seed Bomb
+Snore
+Sucker Punch
+Swift
+Synthesis
+Zen Headbutt
+
+===================
+181 - Sinnohan Ampharos
+===================
+Type:
+Grass/Normal
+
+Ability:
+Unaware/Natural Cure
+
+Stats: 
+100 HP / 45 Atk / 80 Def / 115 SAtk / 110 SDef / 50 Spd / 510 BST
+
+Level Up:
+1 - Earth Power
+1 - Nasty Plot
+4 - Leech Seed
+7 - Mega Drain
+10 - Cotton Spore
+13 - Synthesis
+17 - Swift
+21 - Sleep Powder
+25 - Sunny Day
+29 - Giga Drain
+30 - Solar Beam
+34 - Hyper Voice
+39 - Bubble Beam
+44 - Light Screen
+49 - Heal Bell
+54 - Draining Kiss
+59 - Hyper Beam
+62 - Hydro Pump
+
+TM:
+01 Focus Punch
+03 Water Pulse
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+27 Return
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+36 Sludge Bomb
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+56 Fling
+58 Endure
+59 Dragon Pulse
+70 Flash
+78 Captivate
+79 Dark Pulse
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Earth Power
+Last Resort
+Mud-Slap
+Outrage
+Seed Bomb
+Snore
+Sucker Punch
+Swift
+Synthesis
+Zen Headbutt
+
+===================
+190 - Sinnohan Aipom
+===================
+Type:
+Normal/Fighting
+
+Ability:
+Guts/Quick Feet
+
+Evolution:
+Into Ambipom-S by leveling up while knowing Close Combat
+
+
+Stats: 
+65 HP / 80 Atk / 65 Def / 35 SAtk / 45 SDef / 90 Spd / 380 BST
+
+Level Up:
+1 - Scratch
+1 - Mach Punch
+1 - Leer
+5 - Detect
+8 - Quick Attack
+11 - Baton Pass
+14 - Bulk Up
+17 - Arm Thrust
+20 - Headbutt
+23 - Swift
+26 - Close Combat
+29 - Swords Dance
+32 - Drain Punch
+35 - Facade
+38 - U-turn
+41 - Focus Punch
+44 - Rock Slide
+47 - Zen Headbutt
+50 - Meteor Mash
+
+TM:
+01 Focus Punch
+06 Toxic
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+12 Taunt
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+27 Return
+28 Dig
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+54 False Swipe
+56 Fling
+58 Endure
+60 Drain Punch
+65 Shadow Claw
+66 Payback
+71 Stone Edge
+75 Swords Dance
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Bounce
+Fire Punch
+Ice Punch
+Knock Off
+Last Resort
+Mud-Slap
+Seed Bomb
+Snore
+Spite
+Sucker Punch
+Superpower
+Swift
+Thunder Punch
+Uproar
+Zen Headbutt
+
+===================
+424 - Sinnohan Ambipom
+===================
+Type:
+Normal/Fighting
+
+Ability:
+Guts/Quick Feet
+
+Stats: 
+80 HP / 125 Atk / 75 Def / 55 SAtk / 55 SDef / 110 Spd / 500 BST
+
+Level Up:
+1 - Double-Edge
+1 - Mach Punch
+1 - Leer
+5 - Detect
+8 - Quick Attack
+11 - Baton Pass
+14 - Bulk Up
+17 - Arm Thrust
+20 - Headbutt
+23 - Swift
+26 - Close Combat
+29 - Swords Dance
+32 - Drain Punch
+35 - Facade
+38 - U-turn
+41 - Focus Punch
+44 - Rock Slide
+47 - Zen Headbutt
+50 - Meteor Mash
+55 - Earthquake
+
+TM:
+01 Focus Punch
+06 Toxic
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+12 Taunt
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+54 False Swipe
+56 Fling
+58 Endure
+60 Drain Punch
+65 Shadow Claw
+66 Payback
+68 Giga Impact
+71 Stone Edge
+75 Swords Dance
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Bounce
+Fire Punch
+Ice Punch
+Knock Off
+Last Resort
+Mud-Slap
+Seed Bomb
+Snore
+Spite
+Sucker Punch
+Superpower
+Swift
+Thunder Punch
+Uproar
+Zen Headbutt
+
+===================
+204 - Sinnohan Pineco
+===================
+Type:
+Flying
+
+Ability:
+Motor Drive
+
+Evolution:
+Into Forretress-S at Level 31
+
+Stats: 
+50 HP / 15 Atk / 35 Def / 90 SAtk / 35 SDef / 65 Spd / 290 BST
+
+Level Up:
+1 - Gust
+1 - Charge
+6 - Thunder Shock
+9 - Thunder Wave
+12 - Defog
+15 - Shock Wave
+18 - Whirlwind
+21 - Bide
+24 - Air Cutter
+27 - Rain Dance
+27 - Hail
+30 - Tailwind
+33 - Air Slash
+36 - Charge Beam
+39 - Explosion
+42 - Agility
+45 - Thunder
+
+TM:
+03 Water Pulse
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+27 Return
+28 Dig
+32 Double Team
+33 Reflect
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+55 Scald
+58 Endure
+62 Bug Buzz
+64 Explosion
+66 Payback
+70 Flash
+73 Thunder Wave
+76 Stealth Rock
+78 Captivate
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+90 Substitute
+91 Flash Cannon
+HM02 Fly
+HM04 Strength
+HM05 Defog
+
+Tutor:
+Air Cutter
+Heat Wave
+Icy Wind
+Ominous Wind
+
+===================
+205 - Sinnohan Forretress
+===================
+Type:
+Flying/Electric
+
+Ability:
+Motor Drive
+
+Stats: 
+85 HP / 40 Atk / 65 Def / 140 SAtk / 75 SDef / 105 Spd / 515 BST
+
+Level Up:
+1 - Hydro Pump
+1 - Hurricane
+9 - Thunder Wave
+12 - Defog
+15 - Shock Wave
+18 - Whirlwind
+21 - Bide
+24 - Air Cutter
+27 - Rain Dance
+27 - Hail
+30 - Tailwind
+31 - Thunderbolt
+34 - Air Slash
+38 - Charge Beam
+42 - Explosion
+46 - Agility
+50 - Thunder
+54 - Hydro Pump
+58 - Hurricane
+
+TM:
+03 Water Pulse
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+27 Return
+28 Dig
+32 Double Team
+33 Reflect
+40 Aerial Ace
+41 Hydro Pump
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+55 Scald
+58 Endure
+62 Bug Buzz
+64 Explosion
+66 Payback
+68 Giga Impact
+70 Flash
+73 Thunder Wave
+76 Stealth Rock
+78 Captivate
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+90 Substitute
+91 Flash Cannon
+HM02 Fly
+HM03 Surf
+HM04 Strength
+HM05 Defog
+
+Tutor:
+Air Cutter
+Heat Wave
+Icy Wind
+Ominous Wind
+
+===================
+206 - Sinnohan Dunsparce
+===================
+Design based on a sketch provided by TheOnlineNinja759!
+
+Type:
+Ground/Steel
+
+Ability:
+Mold Breaker/Hustle
+
+Stats: 
+70 HP / 130 Atk / 90 Def / 45 SAtk / 65 SDef / 125 Spd / 525 BST
+
+Level Up:
+1 - Take Down
+1 - Mud-Slap
+4 - Accelerock
+7 - U-turn
+11 - Pursuit
+13 - Screech
+15 - Bulldoze
+17 - Iron Defense
+19 - Dig
+21 - Body Slam
+23 - Drill Run
+25 - Slack Off
+27 - Rage
+29 - Iron Head
+31 - Glare
+33 - Earthquake
+35 - Endeavor
+37 - Iron Tail
+39 - Dragon Rush
+41 - Megahorn
+
+TM:
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+17 Protect
+18 Rain Dance
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+30 Shadow Ball
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+57 Wild Charge
+58 Endure
+59 Dragon Pulse
+69 Rock Polish
+71 Stone Edge
+72 Icicle Crash
+73 Thunder Wave
+74 Gyro Ball
+76 Stealth Rock
+77 Psych Up
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+89 U-turn
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Ancient Power
+Earth Power
+Endeavor
+Iron Defense
+Iron Head
+Knock Off
+Mud-Slap
+Outrage
+Rollout
+Snore
+Spite
+Sucker Punch
+
+
+===================
+218 - Sinnohan Slugma
+===================
+Type:
+Poison
+
+Ability:
+Stench/Liquid Ooze
+
+Evolution:
+Into Magcargo-S at Level 32
+
+Stats: 
+50 HP / 60 Atk / 50 Def / 80 SAtk / 60 SDef / 15 Spd / 315 BST
+
+Level Up:
+1 - Yawn
+1 - Smog
+6 - Acid
+9 - Absorb
+12 - Harden
+15 - Poison Gas
+18 - Ember
+21 - Giga Drain
+24 - Sludge
+27 - Amnesia
+30 - Toxic
+33 - Sludge Bomb
+36 - Recover
+39 - Flamethrower
+45 - Acid Armor
+48 - Gunk Shot
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+27 Return
+32 Double Team
+33 Reflect
+35 Flamethrower
+36 Sludge Bomb
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+58 Endure
+78 Captivate
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+90 Substitute
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Gastro Acid
+Gunk Shot
+Iron Defense
+Mud-Slap
+Rollout
+Snore
+
+===================
+219 - Sinnohan Magcargo
+===================
+Type:
+Poison/Steel
+
+Ability:
+Aftermath/Liquid Ooze
+
+Stats: 
+80 HP / 85 Atk / 135 Def / 100 SAtk / 100 SDef / 10 Spd / 510 BST
+
+Level Up:
+1 - Yawn
+1 - Smog
+6 - Acid
+9 - Absorb
+12 - Harden
+15 - Poison Gas
+18 - Ember
+21 - Giga Drain
+24 - Sludge
+27 - Amnesia
+30 - Toxic
+32 - Explosion
+36 - Sludge Bomb
+42 - Flash Cannon
+46 - Recover
+50 - Flamethrower
+54 - Iron Defense
+58 - Gunk Shot
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+27 Return
+32 Double Team
+33 Reflect
+34 Shock Wave
+35 Flamethrower
+36 Sludge Bomb
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+57 Wild Charge
+58 Endure
+64 Explosion
+68 Giga Impact
+73 Thunder Wave
+74 Gyro Ball
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+84 Poison Jab
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Gastro Acid
+Gunk Shot
+Iron Defense
+Mud-Slap
+Rollout
+Snore
+
+===================
+261 - Sinnohan Poochyena
+===================
+Type:
+Psychic/Fairy
+
+Ability:
+Cute Charm/Keen Eye
+
+Evolution:
+Into Mightyena-S at Level 28
+
+Stats: 
+50 HP / 65 Atk / 50 Def / 55 SAtk / 40 SDef / 90 Spd / 350 BST
+
+Level Up:
+1 - Bite
+1 - Tail Whip
+1 - Roughhouse
+7 - Confusion
+10 - Odor Sleuth
+13 - Take Down
+16 - Roar
+19 - Captivate
+22 - Extrasensory
+25 - Sweet Kiss
+27 - Play Rough
+31 - Moonlight
+34 - Yawn
+37 - Nasty Plot
+40 - Crunch
+43 - Zen Headbutt
+45 - Moonblast
+48 - Vampire Fangs
+
+TM:
+04 Calm Mind
+05 Roar
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+28 Dig
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+33 Reflect
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+54 False Swipe
+58 Endure
+65 Shadow Claw
+75 Swords Dance
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM06 Rock Smash
+
+Tutor:
+Mud-Slap
+Snore
+Sucker Punch
+Uproar
+Zen Headbutt
+
+===================
+262 - Sinnohan Mightyena
+===================
+Type:
+Psychic/Fairy
+
+Ability:
+Adaptability/Natural Cure
+
+Stats: 
+90 HP / 105 Atk / 80 Def / 100 SAtk / 75 SDef / 105 Spd / 555 BST
+
+Level Up:
+1 - Sucker Punch
+1 - Fire Fang
+1 - Ice Fang
+1 - Thunder Fang
+7 - Confusion
+10 - Odor Sleuth
+13 - Take Down
+16 - Roar
+19 - Captivate
+22 - Extrasensory
+25 - Sweet Kiss
+27 - Play Rough
+28 - Psychic
+31 - Moonlight
+35 - Yawn
+39 - Nasty Plot
+43 - Crunch
+47 - Zen Headbutt
+51 - Moonblast
+55 - Vampire Fangs
+
+TM:
+04 Calm Mind
+05 Roar
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+33 Reflect
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+54 False Swipe
+58 Endure
+65 Shadow Claw
+68 Giga Impact
+75 Swords Dance
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM03 Surf
+HM04 Strength
+HM06 Rock Smash
+HM07 Waterfall
+HM08 Rock Climb
+
+Tutor:
+Mud-Slap
+Snore
+Sucker Punch
+Uproar
+Zen Headbutt
+
+===================
+304 - Sinnohan Aron
+===================
+Type:
+Steel/Fire
+
+Evolution:
+Into Lairon-S at Level 27
+
+Ability:
+Water Absorb/Determined
+
+Stats: 
+50 HP / 80 Atk / 70 Def / 65 SAtk / 50 SDef / 50 Spd / 370 BST
+
+Level Up:
+1 - Tackle
+1 - Harden
+1 - Ember
+4 - Flame Wheel
+7 - Headbutt
+10 - Metal Claw
+13 - Fire Fang
+16 - Protect
+19 - Roar
+22 - Iron Head
+25 - Take Down
+28 - Blaze Kick
+31 - Lava Plume
+34 - Iron Tail
+37 - Iron Defense
+40 - Flare Blitz
+43 - Eruption
+46 - Dragon Dance
+49 - Head Smash
+52 - Metal Burst
+
+TM:
+05 Roar
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+17 Protect
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+58 Endure
+61 Will-O-Wisp
+65 Shadow Claw
+69 Rock Polish
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Endeavor
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Magnet Rise
+Mud-Slap
+Rollout
+Snore
+Spite
+Superpower
+Uproar
+
+===================
+305 - Sinnohan Lairon
+===================
+Type:
+Steel/Fire
+
+Evolution:
+Into Aggron-S at Level 37
+
+Ability:
+Water Absorb/Determined
+
+Stats: 
+60 HP / 90 Atk / 90 Def / 75 SAtk / 70 SDef / 70 Spd / 455 BST
+
+Level Up:
+1 - Tackle
+1 - Harden
+1 - Ember
+4 - Flame Wheel
+7 - Headbutt
+10 - Metal Claw
+13 - Fire Fang
+16 - Protect
+19 - Roar
+22 - Iron Head
+25 - Take Down
+28 - Blaze Kick
+31 - Lava Plume
+35 - Iron Tail
+38 - Iron Defense
+41 - Flare Blitz
+45 - Eruption
+47 - Dragon Dance
+52 - Head Smash
+55 - Metal Burst
+
+TM:
+05 Roar
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+17 Protect
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+58 Endure
+61 Will-O-Wisp
+65 Shadow Claw
+69 Rock Polish
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Endeavor
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Magnet Rise
+Mud-Slap
+Rollout
+Snore
+Spite
+Superpower
+Uproar
+
+===================
+306 - Sinnohan Aggron
+===================
+Type:
+Steel/Fire
+
+Ability:
+Water Absorb/Determined
+
+Stats: 
+70 HP / 110 Atk / 115 Def / 80 SAtk / 75 SDef / 70 Spd / 545 BST
+
+Level Up:
+1 - Head Smash
+1 - Superpower
+1 - Magma Storm
+10 - Metal Claw
+13 - Fire Fang
+16 - Protect
+19 - Roar
+22 - Iron Head
+25 - Take Down
+28 - Blaze Kick
+31 - Lava Plume
+35 - Iron Tail
+37 - Outrage
+38 - Iron Defense
+41 - Flare Blitz
+47 - Eruption
+52 - Dragon Dance
+55 - Head Smash
+58 - Metal Burst
+61 - Magma Storm
+
+TM:
+01 Focus Punch
+02 Dragon Claw
+05 Roar
+06 Toxic
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+21 Frustration
+23 Iron Tail
+26 Earthquake
+27 Return
+28 Dig
+31 Brick Break
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+58 Endure
+60 Drain Punch
+61 Will-O-Wisp
+65 Shadow Claw
+68 Giga Impact
+69 Rock Polish
+71 Stone Edge
+74 Gyro Ball
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Ancient Power
+Earth Power
+Endeavor
+Fire Punch
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Magnet Rise
+Mud-Slap
+Outrage
+Rollout
+Snore
+Spite
+Superpower
+Thunder Punch
+Uproar
+
+===================
+307 - Sinnohan Meditite
+===================
+Type:
+Flying/Fighting
+
+Ability:
+Pure Power
+
+Evolution:
+Into Medicham-S at Level 37
+
+Stats: 
+40 HP / 25 Atk / 55 Def / 85 SAtk / 65 SDef / 80 Spd / 350 BST
+
+Level Up:
+1 - Gust
+1 - Zephyr Form
+1 - Detect
+7 - Air Cutter
+10 - Endure
+13 - Feint
+16 - Force Palm
+19 - Aerial Ace
+22 - Aura Sphere
+25 - Calm Mind
+28 - Air Slash
+31 - High Jump Kick
+34 - Psych Up
+37 - Meteor Dive
+40 - Acupressure
+43 - Power Trick
+46 - Hurricane
+49 - Recover
+
+TM:
+01 Focus Punch
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+27 Return
+31 Brick Break
+32 Double Team
+35 Flamethrower
+33 Reflect
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+51 Roost
+52 Focus Blast
+55 Scald
+56 Fling
+58 Endure
+60 Drain Punch
+67 Recycle
+70 Flash
+75 Swords Dance
+77 Psych Up
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+90 Substitute
+HM02 Fly
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Dive
+Helping Hand
+Ice Punch
+Icy Wind
+Mud-Slap
+Snore
+Swift
+Vacuum Wave
+
+===================
+308 - Sinnohan Medicham
+===================
+Type:
+Flying/Fighting
+
+Ability:
+Pure Power
+
+Stats: 
+65 HP / 55 Atk / 65 Def / 125 SAtk / 70 SDef / 90 Spd / 470 BST
+
+Level Up:
+1 - Fire Punch
+1 - Thunder Punch
+1 - Ice Punch
+1 - Earth Power
+1 - Zephyr Form
+7 - Air Cutter
+10 - Endure
+13 - Feint
+16 - Force Palm
+19 - Aerial Ace
+22 - Aura Sphere
+25 - Calm Mind
+28 - Air Slash
+31 - High Jump Kick
+35 - Psych Up
+39 - Meteor Dive
+43 - Acupressure
+47 - Power Trick
+51 - Hurricane
+55 - Recover
+
+TM:
+01 Focus Punch
+03 Water Pulse
+04 Calm Mind
+06 Toxic
+07 Hail
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+21 Frustration
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Return
+31 Brick Break
+32 Double Team
+35 Flamethrower
+33 Reflect
+38 Fire Blast
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+51 Roost
+52 Focus Blast
+55 Scald
+56 Fling
+58 Endure
+60 Drain Punch
+67 Recycle
+68 Giga Impact
+70 Flash
+71 Stone Edge
+75 Swords Dance
+77 Psych Up
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+90 Substitute
+HM02 Fly
+HM03 Surf
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM07 Waterfall
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Dive
+Earth Power
+Fire Punch
+Heat Wave
+Helping Hand
+Ice Punch
+Icy Wind
+Mud-Slap
+Snore
+Swift
+Thunder Punch
+Vacuum Wave
+
+===================
+309 - Electrike
+===================
+Type:
+Rock
+
+Ability:
+Illuminate/Keen Eye
+
+Evolution:
+Into Manectric-S at Level 26
+
+Stats: 
+40 HP / 35 Atk / 60 Def / 75 SAtk / 40 SDef / 65 Spd / 315 BST
+
+Level Up:
+1 - Tackle
+1 - Glare
+1 - Harden
+4 - Rock Polish
+7 - Flash
+10 - Psybeam
+13 - Ancient Power
+16 - Bite
+19 - Gem Flash
+22 - Roar
+25 - Reflect
+25 - Light Screen
+28 - Flamethrower
+31 - Power Gem
+34 - Mirror Coat
+37 - Earth Power
+40 - Overheat
+43 - Prismatic Beam
+
+TM:
+04 Calm Mind
+05 Roar
+06 Toxic
+10 Hidden Power
+16 Light Screen
+17 Protect
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+27 Return
+29 Psychic
+32 Double Team
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+50 Overheat
+58 Endure
+69 Rock Polish
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Magnet Rise
+Mud-Slap
+Signal Beam
+Snore
+Swift
+
+===================
+310 - Manectric
+===================
+Type:
+Rock/Psychic
+
+Ability:
+Technician/Magic Guard
+
+Stats: 
+70 HP / 55 Atk / 70 Def / 130 SAtk / 80 SDef / 112 Spd / 517 BST
+
+Level Up:
+1 - Prismatic Beam
+1 - Glare
+1 - Cosmic Power
+4 - Rock Polish
+7 - Flash
+10 - Psybeam
+13 - Ancient Power
+16 - Bite
+19 - Gem Flash
+22 - Roar
+25 - Reflect
+25 - Light Screen
+26 - Psychic
+29 - Flamethrower
+33 - Power Gem
+37 - Mirror Coat
+41 - Earth Power
+45 - Overheat
+49 - Prismatic Beam
+
+TM:
+04 Calm Mind
+05 Roar
+06 Toxic
+10 Hidden Power
+15 Hyper Beam
+16 Light Screen
+17 Protect
+21 Frustration
+23 Iron Tail
+24 Thunderbolt
+27 Return
+29 Psychic
+32 Double Team
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+50 Overheat
+58 Endure
+68 Giga Impact
+69 Rock Polish
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+76 Stealth Rock
+78 Captivate
+80 Rock Slide
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Ancient Power
+Earth Power
+Magnet Rise
+Mud-Slap
+Signal Beam
+Snore
+Swift
+Trick
+Zen Headbutt
+
+===================
+406 - Sinnohan Budew
+===================
+Type:
+Fairy
+
+Ability:
+Klutz/Run Away
+
+Stats: 
+40 HP / 20 Atk / 45 Def / 30 SAtk / 60 SDef / 75 Spd / 270 BST
+
+Evolution:
+Into Roselia-S by leveling up while knowing Detect.
+
+Level Up:
+1 - Absorb
+1 - Sweet Scent
+1 - Disarming Voice
+9 - Mega Drain
+12 - Defense Curl
+15 - Leech Seed
+18 - Extrasensory
+21 - Detect
+
+TM:
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+27 Return
+30 Shadow Ball
+32 Double Team
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+53 Energy Ball
+58 Endure
+70 Flash
+75 Swords Dance
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+
+Tutor:
+Mud-Slap
+Seed Bomb
+Snore
+Swift
+Synthesis
+Uproar
+
+===================
+315 - Sinnohan Roselia
+===================
+Type:
+Fairy/Fighting
+
+Ability:
+Oblivious/Anticipation
+
+Stats: 
+50 HP / 50 Atk / 55 Def / 90 SAtk / 65 SDef / 90 Spd / 400 BST
+
+Evolution:
+Into Roserade-S by leveling up while knowing Aura Sphere.
+
+Level Up:
+1 - Absorb
+1 - Sweet Scent
+1 - Grass Whistle
+1 - Disarming Voice
+9 - Mega Drain
+12 - Defense Curl
+15 - Leech Seed
+18 - Extrasensory
+21 - Detect
+24 - Mach Punch
+28 - Giga Drain
+32 - Force Palm
+36 - Moonblast
+41 - Aura Sphere
+46 - Swords Dance
+50 - Drain Punch
+54 - Aromatherapy
+58 - Synthesis
+62 - Play Rough
+
+TM:
+01 Focus Punch
+04 Calm Mind
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+53 Energy Ball
+58 Endure
+60 Drain Punch
+70 Flash
+75 Swords Dance
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+
+Tutor:
+Fury Cutter
+Ice Punch
+Mud-Slap
+Seed Bomb
+Snore
+Swift
+Synthesis
+Thunder Punch
+Vacuum Wave
+Zen Headbutt
+
+===================
+407 - Sinnohan Roserade
+===================
+Type:
+Fairy/Fighting
+
+Ability:
+Pure Power/Technician
+
+Stats: 
+60 HP / 60 Atk / 75 Def / 130 SAtk / 85 SDef / 105 Spd / 515 BST
+
+Level Up:
+1 - Play Rough
+1 - Vacuum Wave
+1 - High Jump Kick
+1 - Grass Whistle
+1 - Mega Drain
+1 - Psycho Cut
+15 - Leech Seed
+18 - Extrasensory
+21 - Detect
+24 - Mach Punch
+28 - Giga Drain
+32 - Force Palm
+36 - Moonblast
+41 - Aura Sphere
+47 - Swords Dance
+51 - Drain Punch
+55 - Aromatherapy
+59 - Synthesis
+63 - Play Rough
+66 - Cross Chop
+
+TM:
+01 Focus Punch
+04 Calm Mind
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+27 Return
+29 Psychic
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+52 Focus Blast
+53 Energy Ball
+54 False Swipe
+58 Endure
+60 Drain Punch
+68 Giga Impact
+70 Flash
+75 Swords Dance
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+81 X-Scissor
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+HM01 Cut
+
+Tutor:
+Fury Cutter
+Ice Punch
+Mud-Slap
+Seed Bomb
+Snore
+Superpower
+Swift
+Synthesis
+Thunder Punch
+Vacuum Wave
+Zen Headbutt
+
+===================
+328 - Sinnohan Trapinch
+===================
+Type:
+Fire
+
+Ability:
+Speed Boost
+
+Evolution:
+Into Vibrava-S at Level 25
+
+Stats: 
+30 HP / 65 Atk / 50 Def / 30 SAtk / 55 SDef / 120 Spd / 350 BST
+
+Level Up:
+1 - Bite
+1 - Smokescreen
+1 - Ember
+1 - Bide
+5 - Flame Wheel
+8 - Quick Attack
+12 - Take Down
+15 - Dragon Rage
+19 - Air Cutter
+22 - Crunch
+26 - Fire Fang
+29 - Feint
+33 - Flamethrower
+36 - Shock Wave
+40 - Superpower
+43 - Hyper Beam
+47 - Flare Blitz
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+27 Return
+28 Dig
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+57 Wild Charge
+58 Endure
+61 Will-O-Wisp
+62 Bug Buzz
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+87 Swagger
+90 Substitute
+91 Flash Cannon
+HM04 Strength
+HM06 Rock Smash
+
+Tutor:
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Mud-Slap
+Snore
+
+===================
+329 - Sinnohan Vibrava
+===================
+Type:
+Fire/Electric
+
+Ability:
+Deadeye / Solar Power
+
+Evolution:
+Into Flygon-S at Level 35
+
+Stats: 
+40 HP / 85 Atk / 60 Def / 85 SAtk / 65 SDef / 110 Spd / 445 BST
+
+Level Up:
+1 - Bite
+1 - Smokescreen
+1 - Ember
+1 - Bide
+5 - Flame Wheel
+8 - Quick Attack
+12 - Take Down
+15 - Dragon Rage
+19 - Air Cutter
+22 - Crunch
+25 - Synthesis
+26 - Fire Fang
+29 - Signal Beam
+33 - Flamethrower
+34 - Thunderbolt
+36 - Bug Buzz
+43 - Lock-On
+45 - Fire Blast
+47 - Hurricane
+51 - Flare Blitz
+
+TM:
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Return
+28 Dig
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+51 Roost
+57 Wild Charge
+58 Endure
+59 Dragon Pulse
+61 Will-O-Wisp
+62 Bug Buzz
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM02 Fly
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Mud-Slap
+Ominous Wind
+Outrage
+Signal Beam
+Snore
+Swift
+Synthesis
+
+===================
+330 - Sinnohan Flygon
+===================
+Type:
+Fire/Electric
+
+Ability:
+Deadeye / Solar Power
+
+Stats: 
+65 HP / 105 Atk / 70 Def / 105 SAtk / 75 SDef / 125 Spd / 545 BST
+
+Level Up:
+1 - Dragon Dance
+1 - Tail Glow
+1 - Zap Cannon
+1 - Meteor Dive
+12 - Take Down
+15 - Dragon Rage
+19 - Air Cutter
+22 - Crunch
+25 - Synthesis
+26 - Fire Fang
+29 - Signal Beam
+33 - Flamethrower
+34 - Thunderbolt
+35 - Air Slash
+38 - Bug Buzz
+44 - Lock-On
+47 - Fire Blast
+51 - Hyper Beam
+54 - Hurricane
+57 - Flare Blitz
+
+TM:
+02 Dragon Claw
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+19 Giga Drain
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+25 Thunder
+26 Earthquake
+27 Return
+28 Dig
+32 Double Team
+34 Shock Wave
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+47 Iron Head
+50 Overheat
+51 Roost
+57 Wild Charge
+58 Endure
+59 Dragon Pulse
+61 Will-O-Wisp
+62 Bug Buzz
+73 Thunder Wave
+78 Captivate
+82 Sleep Talk
+87 Swagger
+88 Hurricane
+89 U-turn
+90 Substitute
+91 Flash Cannon
+HM01 Cut
+HM02 Fly
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Air Cutter
+Fire Punch
+Fury Cutter
+Heat Wave
+Iron Defense
+Iron Head
+Mud-Slap
+Ominous Wind
+Outrage
+Signal Beam
+Snore
+Swift
+Synthesis
+Thunder Punch
+
+===================
+333 - Sinnohan Swablu
+===================
+Type:
+Psychic/Flying
+
+Ability:
+Flame Body / Shield Dust
+
+Evolution:
+Into Altaria-S at Level 32
+
+Stats: 
+50 HP / 50 Atk / 60 Def / 50 SAtk / 80 SDef / 60 Spd / 350 BST
+
+Level Up:
+1 - Confusion
+1 - Growl
+4 - Astonish
+7 - Sing
+11 - Fire Spin
+13 - Fury Attack
+15 - Cosmic Power
+17 - Air Cutter
+19 - Mist
+22 - Uproar
+25 - Will-O-Wisp
+28 - Psychic
+31 - Moonblast
+34 - Gravity
+37 - Flamethrower
+40 - Dragon Pulse
+43 - Perish Song
+46 - Meteor Dive
+
+TM:
+04 Calm Mind
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+16 Light Screen
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+22 Solar Beam
+27 Return
+30 Shadow Ball
+32 Double Team
+33 Reflect
+35 Flamethrower
+38 Fire Blast
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+50 Overheat
+51 Roost
+58 Endure
+59 Dragon Pulse
+61 Will-O-Wisp
+70 Flash
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+88 Hurricane
+90 Substitute
+91 Flash Cannon
+HM02 Fly
+
+Tutor:
+Air Cutter
+Heat Wave
+Ominous Wind
+Outrage
+Snore
+Swift
+Uproar
+Zen Headbutt
+
+===================
+334 - Sinnohan Altaria
+===================
+Type:
+Psychic/Dragon
+
+Ability:
+Flame Body / Shield Dust
+
+Stats: 
+85 HP / 90 Atk / 80 Def / 95 SAtk / 120 SDef / 85 Spd / 555 BST
+
+Level Up:
+1 - Flare Blitz
+1 - Outrage
+1 - Air Slash
+1 - Zen Headbutt
+13 - Fury Attack
+15 - Cosmic Power
+17 - Air Cutter
+19 - Mist
+22 - Uproar
+25 - Will-O-Wisp
+28 - Psychic
+31 - Moonblast
+32 - Dragon Breath
+35 - Gravity
+38 - Dragon Dance
+42 - Flamethrower
+46 - Dragon Pulse
+50 - Perish Song
+54 - Meteor Dive
+58 - Outrage
+
+TM:
+02 Dragon Claw
+04 Calm Mind
+05 Roar
+06 Toxic
+07 Hail
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+22 Solar Beam
+23 Iron Tail
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+35 Flamethrower
+38 Fire Blast
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+50 Overheat
+51 Roost
+58 Endure
+59 Dragon Pulse
+61 Will-O-Wisp
+64 Explosion
+65 Shadow Claw
+68 Giga Impact
+70 Flash
+77 Psych Up
+78 Captivate
+82 Sleep Talk
+83 Hyper Voice
+85 Dazzling Gleam
+87 Swagger
+88 Hurricane
+90 Substitute
+91 Flash Cannon
+HM02 Fly
+HM06 Rock Smash
+
+Tutor:
+Air Cutter
+Draco Meteor
+Heat Wave
+Ominous Wind
+Outrage
+Snore
+Swift
+Uproar
+Zen Headbutt
+
+===================
+337 - Sinnohan Lunatone
+===================
+Type:
+Rock/Ghost
+
+Ability:
+Levitate
+
+Stats: 
+90 HP / 60 Atk / 125 Def / 95 SAtk / 85 SDef / 55 Spd / 520 BST
+
+Level Up:
+1 - Moonblast
+1 - Tackle
+1 - Harden
+1 - Rock Throw
+5 - Confuse Ray
+9 - Rock Polish
+12 - Night Shade
+16 - Gem Flash
+19 - Embargo
+22 - Shadow Ball
+25 - Cosmic Power
+28 - Heal Block
+31 - Power Gem
+34 - Moonlight
+37 - Ice Beam
+40 - Cosmic Void
+43 - Meteor Dive
+46 - Earth Power
+49 - Dark Void
+
+TM:
+04 Calm Mind
+06 Toxic
+10 Hidden Power
+13 Ice Beam
+14 Blizzard
+15 Hyper Beam
+16 Light Screen
+17 Protect
+18 Rain Dance
+20 Safeguard
+21 Frustration
+26 Earthquake
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+37 Sandstorm
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+47 Iron Head
+48 Skill Swap
+58 Endure
+63 Embargo
+64 Explosion
+67 Recycle
+68 Giga Impact
+69 Rock Polish
+70 Flash
+71 Stone Edge
+74 Gyro Ball
+76 Stealth Rock
+77 Psych Up
+80 Rock Slide
+82 Sleep Talk
+86 Grass Knot
+87 Swagger
+90 Substitute
+92 Trick Room
+HM02 Fly
+HM03 Surf
+
+Tutor:
+Ancient Power
+Earth Power
+Helping Hand
+Icy Wind
+Iron Head
+Ominous Wind
+Rollout
+Signal Beam
+Snore
+Swift
+Zen Headbutt
+
+===================
+338 - Sinnohan Solrock
+===================
+Type:
+Fire/Ghost
+
+Ability:
+Levitate
+
+Stats: 
+90 HP / 60 Atk / 55 Def / 125 SAtk / 85 SDef / 95 Spd / 520 BST
+
+Level Up:
+1 - Eruption
+1 - Tackle
+1 - Flash
+1 - Ember
+5 - Will-O-Wisp
+9 - Rapid Spin
+12 - Self-Destruct
+16 - Fire Spin
+19 - Embargo
+22 - Shadow Ball
+25 - Cosmic Power
+28 - Heal Block
+31 - Flamethrower
+34 - Morning Sun
+37 - Parabolic Charge
+40 - Cosmic Void
+43 - Explosion
+46 - Signal Beam
+49 - Nasty Plot
+
+TM:
+04 Calm Mind
+06 Toxic
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+16 Light Screen
+17 Protect
+20 Safeguard
+21 Frustration
+22 Solar Beam
+24 Thunderbolt
+26 Earthquake
+27 Return
+29 Psychic
+30 Shadow Ball
+32 Double Team
+33 Reflect
+35 Flamethrower
+37 Sandstorm
+38 Fire Blast
+39 Rock Tomb
+42 Facade
+43 Secret Power
+44 Rest
+48 Skill Swap
+50 Overheat
+58 Endure
+61 Will-O-Wisp
+63 Embargo
+64 Explosion
+67 Recycle
+68 Giga Impact
+69 Rock Polish
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+74 Gyro Ball
+76 Stealth Rock
+77 Psych Up
+80 Rock Slide
+82 Sleep Talk
+85 Dazzling Gleam
+86 Grass Knot
+87 Swagger
+90 Substitute
+92 Trick Room
+HM02 Fly
+
+Tutor:
+Ancient Power
+Earth Power
+Heat Wave
+Helping Hand
+Iron Head
+Ominous Wind
+Rollout
+Signal Beam
+Snore
+Swift
+Zen Headbutt
+
+===================
+357 - Sinnohan Tropius
+===================
+Type:
+Grass/Fire
+
+Ability:
+Determined/Flame Body
+
+Stats: 
+125 HP / 100 Atk / 70 Def / 95 SAtk / 80 SDef / 85 Spd / 555 BST
+
+Level Up:
+1 - Ember
+1 - Growth
+1 - Razor Leaf
+6 - Stun Spore
+9 - Stomp
+12 - Magical Leaf
+15 - Whirlwind
+18 - Natural Gift
+21 - Synthesis
+24 - Meteor Dive
+26 - Body Slam
+28 - Air Slash
+31 - Heat Wave
+35 - Leaf Blade
+37 - Dragon Pulse
+41 - Dragon Dance
+43 - Outrage
+46 - Wood Hammer
+49 - Flare Blitz
+52 - Leaf Storm
+
+TM:
+05 Roar
+06 Toxic
+09 Bullet Seed
+10 Hidden Power
+11 Sunny Day
+15 Hyper Beam
+17 Protect
+19 Giga Drain
+20 Safeguard
+21 Frustration
+22 Solar Beam
+26 Earthquake
+27 Return
+32 Double Team
+35 Flamethrower
+38 Fire Blast
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+50 Overheat
+51 Roost
+53 Energy Ball
+58 Endure
+59 Dragon Pulse
+61 Will-O-Wisp
+68 Giga Impact
+70 Flash
+75 Swords Dance
+78 Captivate
+82 Sleep Talk
+86 Grass Knot
+87 Swagger
+88 Hurricane
+90 Substitute
+HM01 Cut
+HM02 Fly
+HM04 Strength
+HM05 Defog
+HM06 Rock Smash
+
+Tutor:
+Air Cutter
+Fury Cutter
+Heat Wave
+Mud-Slap
+Ominous Wind
+Outrage
+Snore
+Synthesis
+
+
+===================
+359 - Sinnohan Absol
+===================
+Type:
+Dark/Steel
+
+Ability:
+Limber/Insomnia
+
+Stats: 
+65 HP / 140 Atk / 85 Def / 45 SAtk / 65 SDef / 100 Spd / 500 BST
+
+Level Up:
+1 - Knock Off
+1 - Metal Claw
+4 - Leer
+7 - Quick Attack
+10 - Pursuit
+13 - Taunt
+16 - Bite
+19 - Double Team
+22 - Iron Head
+22 - Night Slash
+25 - Swords Dance
+28 - Psycho Cut
+31 - Detect
+34 - Sucker Punch
+37 - Leaf Blade
+40 - Megahorn
+43 - Play Rough
+46 - Iron Tail
+49 - Perish Song
+53 - Vampire Fangs
+
+TM:
+02 Dragon Claw
+06 Toxic
+07 Hail
+08 Bulk Up
+10 Hidden Power
+11 Sunny Day
+12 Taunt
+15 Hyper Beam
+17 Protect
+18 Rain Dance
+21 Frustration
+23 Iron Tail
+27 Return
+26 Earthquake
+28 Dig
+30 Shadow Ball
+31 Brick Break
+32 Double Team
+34 Shock Wave
+37 Sandstorm
+39 Rock Tomb
+40 Aerial Ace
+42 Facade
+43 Secret Power
+44 Rest
+45 Attract
+46 Thief
+47 Iron Head
+49 Snatch
+54 False Swipe
+57 Wild Charge
+58 Endure
+61 Will-O-Wisp
+65 Shadow Claw
+66 Payback
+68 Giga Impact
+70 Flash
+71 Stone Edge
+73 Thunder Wave
+75 Swords Dance
+77 Psych Up
+78 Captivate
+79 Dark Pulse
+80 Rock Slide
+81 X-Scissor
+82 Sleep Talk
+85 Dazzling Gleam
+87 Swagger
+89 U-turn
+90 Substitute
+HM01 Cut
+HM04 Strength
+HM06 Rock Smash
+HM08 Rock Climb
+
+Tutor:
+Bounce
+Fury Cutter
+Icy Wind
+Iron Head
+Knock Off
+Mud-Slap
+Snore
+Spite
+Sucker Punch
+Superpower
+Swift
+Zen Headbutt

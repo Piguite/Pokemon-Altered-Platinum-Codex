@@ -1,0 +1,226 @@
+@import 'tailwindcss';
+
+/* Class-based dark mode: <html class="dark"> / <html class="light"> */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ------------------------------------------------------------------ */
+/* Design tokens — dark is the default palette.                        */
+/* `html.light` re-maps the same variables (higher specificity than    */
+/* Tailwind's `:root`), so every semantic utility follows the theme.   */
+/* ------------------------------------------------------------------ */
+@theme {
+  --color-canvas: #080b11;
+  --color-canvas-2: #0c1017;
+  --color-surface: #11161f;
+  --color-surface-2: #171d29;
+  --color-surface-3: #202838;
+  --color-line: #222a39;
+  --color-line-strong: #33405a;
+  --color-ink: #e9edf6;
+  --color-ink-muted: #97a3ba;
+  --color-ink-faint: #8792a7;
+  /* `accent` is the on-dark accent TEXT colour; `accent-solid` is the filled
+     surface colour, dark enough that white ink on it clears 4.5:1. */
+  --color-accent: #ff5468;
+  --color-accent-solid: #d81f3f;
+  --color-accent-ink: #ffffff;
+  --color-accent-soft: #3a1620;
+  --color-info: #4cc2f5;
+  --color-good: #35d29a;
+  --color-bad: #fb6f83;
+  --color-warn: #e9b44c;
+  /* Regional (Sinnohan) forms. Violet clears 4.5:1 on its own 15% tint in both
+     themes — `--color-form` is the on-tint text colour, not the fill. */
+  --color-form: #c9a9ff;
+  /* Ink used on 22%-tinted surfaces (type-matrix cells, delta chips). */
+  --color-good-ink: #35d29a;
+  --color-bad-ink: #fb6f83;
+
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace;
+
+  --radius-card: 14px;
+  --radius-pill: 999px;
+
+  --shadow-card: 0 1px 0 0 rgb(255 255 255 / 0.03) inset, 0 12px 28px -18px rgb(0 0 0 / 0.9);
+  --shadow-pop: 0 24px 60px -20px rgb(0 0 0 / 0.75), 0 0 0 1px var(--color-line-strong);
+}
+
+html.light {
+  --color-canvas: #f3f5fa;
+  --color-canvas-2: #eaedf5;
+  --color-surface: #ffffff;
+  --color-surface-2: #f4f6fb;
+  --color-surface-3: #e7ecf6;
+  --color-line: #dde3ef;
+  --color-line-strong: #c2cce0;
+  --color-ink: #121722;
+  --color-ink-muted: #4e586e;
+  --color-ink-faint: #606a82;
+  --color-accent: #d81f3f;
+  --color-accent-solid: #d81f3f;
+  --color-accent-ink: #ffffff;
+  --color-accent-soft: #ffe6ea;
+  --color-info: #096fa8;
+  --color-good: #067a55;
+  --color-bad: #cd2444;
+  --color-warn: #9a6a06;
+  --color-form: #6d28b8;
+  /* The 22% tints are much lighter than the surface, so the matrix cells need
+     a darker ink of the same hue to stay above 4.5:1. */
+  --color-good-ink: #054c36;
+  --color-bad-ink: #8f1730;
+  --shadow-card: 0 1px 2px rgb(16 24 40 / 0.05), 0 10px 24px -18px rgb(16 24 40 / 0.35);
+  --shadow-pop: 0 24px 60px -24px rgb(16 24 40 / 0.4), 0 0 0 1px var(--color-line-strong);
+}
+
+@layer base {
+  * {
+    border-color: var(--color-line);
+  }
+
+  /*
+   * Responsive grids that only declare their columns at a breakpoint
+   * (`grid gap-5 lg:grid-cols-2`) fall back to a single *implicit* track, whose
+   * default size is `auto` — i.e. `minmax(auto, max-content)`. Its automatic
+   * minimum is the content's min-content size, so a single nowrap string or a
+   * wide table can push that track past the viewport and make the whole page
+   * scroll sideways on phones.
+   *
+   * Bounding the implicit track with `minmax(0, 1fr)` — the same form Tailwind
+   * uses for its `grid-cols-<n>` utilities — keeps every grid inside its
+   * container. `:where()` keeps specificity at 0 so any utility can override it.
+   */
+  :where(.grid) {
+    grid-auto-columns: minmax(0, 1fr);
+  }
+
+  html {
+    color-scheme: dark;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  html.light {
+    color-scheme: light;
+  }
+
+  body {
+    margin: 0;
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  ::selection {
+    background: var(--color-accent);
+    color: var(--color-accent-ink);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-info);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-wrap: balance;
+  }
+}
+
+@layer components {
+  /* Slim, theme-aware scrollbars */
+  .scroll-thin {
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-line-strong) transparent;
+  }
+  .scroll-thin::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  .scroll-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  .scroll-thin::-webkit-scrollbar-thumb {
+    background: var(--color-line-strong);
+    border-radius: 999px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Subtle grid backdrop used on the dashboard hero */
+  .bg-grid {
+    background-image:
+      linear-gradient(to right, color-mix(in srgb, var(--color-line) 55%, transparent) 1px, transparent 1px),
+      linear-gradient(to bottom, color-mix(in srgb, var(--color-line) 55%, transparent) 1px, transparent 1px);
+    background-size: 44px 44px;
+  }
+
+  .text-gradient-accent {
+    background: linear-gradient(96deg, var(--color-ink) 8%, var(--color-accent) 92%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
+
+@layer utilities {
+  .animate-in {
+    animation: dsh-fade-in 0.22s ease-out both;
+  }
+  .animate-pop {
+    animation: dsh-pop-in 0.16s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+}
+
+@keyframes dsh-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes dsh-pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px) scale(0.985);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* Tabular numbers everywhere numbers must line up */
+.nums {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum' 1;
+}

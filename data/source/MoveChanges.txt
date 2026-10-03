@@ -1,0 +1,476 @@
+o-----------------------------------o
+| Pokémon Altered Platinum          |
+| Move Changes (r1.0.5)             |
+| Original hack by Drayano          |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- The numbers of all moves (power, accuracy, PP, effect chance, priority) are updated to match Ultra Sun and Ultra Moon.
+- Curse is now a Ghost-type move as in Ultra Sun and Ultra Moon.
+- Charm, Moonlight and Sweet Kiss are now Fairy-type as in Ultra Sun and Ultra Moon.
+
+=========================================================
+Move Replacements
+=========================================================
+The following moves have been replaced with moves from later generations, or entirely new ones.
+Moves under the "Old Move" column are now unavailable.
+
+Old Move                New Move
+---------               ---------
+Barrage                 Draining Kiss
+Brine                   Scald
+Constrict               Icicle Crash
+Horn Drill              Drill Run
+Lunar Dance             Moonblast
+Luster Purge            Dazzling Gleam
+Mist Ball               Disarming Voice
+Sand Tomb               Bulldoze
+Submission              Play Rough
+Twister                 Hurricane
+Volt Tackle             Wild Charge
+Kinesis                 Accelerock
+Lovely Kiss				Boomburst
+Sheer Cold				Parabolic Charge
+Pluck					Dual Wingbeat
+Present					Triple Axel
+Mud Sport				Esper Wing
+Water Sport				Wave Crash
+Camouflage				Headlong Rush
+
+Steel Wing				Steel Feathers(new)
+Fissure					Roughhouse(new)
+Minimize				Zephyr Form(new)
+Sharpen					Prismatic Beam(new)
+Guillotine				Gem Flash(new)
+Twineedle				Twinbulb(new)
+Teeter Dance            Meteor Dive(new)
+Smelling Salts          Vampire Fangs(new)
+Nightmare				Cosmic Void(new)
+Vital Throw				Sekai Slam(new)
+
+
+=========================================================
+New Moves
+=========================================================
+Gem Flash
+Type: Rock
+Class: Special, Opponent's side of field
+Power: 50
+PP: 15
+Accuracy: 100
+Effect: 70% chance to raise user's Special Attack 1 stage.
+Description: The user builds crystal power, then unleashes it. It may also raise the user's Sp. Atk stat.
+
+Cosmic Void
+Type: Ghost
+Class: Special, Opponent's side of field
+Power: 100
+PP: 5
+Accuracy: 100
+Effect: 20% chance to freeze.
+Description: The user summons the freezing interstellar void. It is so cold that it may freeze the target.
+
+Meteor Dive
+Type: Flying
+Class: Physical, 1 Target
+Power: 90
+PP: 10
+Accuracy: 100
+Effect: None.
+Description: The user flies into the air, then dives straight into the foe.
+
+Prismatic Beam
+Type: Rock
+Class: Special, 1 Target
+Power: 110
+PP: 5
+Accuracy: 85
+Effect: 10% chance to flinch.
+Description: With crystalline power, the user fires a rainbow beam of light. It may make the target flinch.
+
+Roughhouse
+Type: Fairy
+Class: Physical, 1 Target
+Power: 45
+PP: 25
+Accuracy: 100
+Effect: None.
+Description: The user roughhouses with the target, inflicting damage.
+
+Sekai Slam
+Type: Dragon
+Class: Physical, 1 Target
+Power: 90
+PP: 10
+Accuracy: 100
+Effect: 50% chance to raise user's Defense 1 stage.
+Description: With its tough apple-like belly, the user tackles the target. It may also raise the user's Defense.
+
+Steel Feathers
+Type: Steel
+Class: Physical, 1 Target
+Power: 80
+PP: 10
+Accuracy: 100
+Effect: 50% chance to raise user's Attack 1 stage.
+Description: The user shoots metal feathers at the target. It may also raise the user's Attack stat.
+
+Twinbulb
+Type: Electric
+Class: Physical, 1 Target
+Power: 40
+PP: 20
+Accuracy: 100
+Effect: Hits twice.
+Description: The user stabs twice with two lightbulbs that are sharp like stingers.
+
+Vampire Fangs
+Type: Dark
+Class: Physical, 1 Target
+Power: 90
+PP: 10
+Accuracy: 100
+Effect: Heals the user by 50% of damage dealt.
+Description: The user bites with vampiric fangs. The user’s HP is restored by half the damage taken by the target.
+
+Zephyr Form
+Type: Flying
+Class: Status, Self
+PP: 1
+Effect: Raise user's Attack and Speed.
+Description: Moving like wind, the user enters a combat stance that boosts its Attack and Speed stats.
+
+=========================================================
+Move Modifications
+=========================================================
+Some moves have had changes to their numerical values.
+There are also some cases where moves have lost effects because it can't be replicated in the Gen IV engine.
+
+Absorb
+Power: 20 >> 40
+PP: 25 >> 15
+
+Air Cutter
+Accuracy: 95% >> 100%
+
+Air Slash
+Power: 75 >> 90
+Accuracy: 95% >> 100%
+Effect: Flinch (30%) >> Flinch (5%)
+
+Aqua Tail
+Accuracy: 90% >> 100%
+
+Aurora Beam
+Power: 65 >> 75
+PP: 20 >> 15
+
+Blaze Kick
+Power: 85 >> 90
+Accuracy: 90% >> 100%
+
+Bonemerang
+Accuracy: 90% >> 100%
+
+Bone Rush
+Accuracy: 90% >> 100%
+
+Boomburst
+Effect: None >> Bypasses Soundproof (Engine limitation)
+
+Bubble Beam
+Power: 65 >> 75
+PP: 20 >> 15
+
+Charge Beam
+Accuracy: 90% >> 100%
+
+Chatter
+Power: 65 >> 90
+PP: 20 >> 15
+
+Comet Punch
+Power: 18 >> 30
+Accuracy: 85% >> 100%
+PP: 15 >> 10
+Type: Normal >> Fighting
+
+Crabhammer
+Accuracy: 90% >> 100%
+
+Cross Chop
+Power: 100 >> 90
+Accuracy: 80% >> 100%
+PP: 5 >> 15
+
+Cross Poison
+Power: 70 >> 90
+PP: 20 >> 15
+
+Crunch
+Power: 80 >> 95
+
+Crush Claw
+Accuracy: 95% >> 100%
+
+Cut
+Power: 50 >> 60
+Accuracy: 95% >> 100%
+PP: 30 >> 25
+Type: Normal >> Grass
+Effect: No Effect >> High Critical Ratio
+
+Dark Void
+Accuracy: 50% >> 85%
+
+Disarming Voice
+Power: 40 >> 50
+
+Double Hit
+Accuracy: 90% >> 100%
+
+Double Kick
+Power: 30 >> 37
+
+Draco Meteor
+Accuracy: 90% >> 100%
+
+Dragon Claw
+Power: 80 >> 90
+Effect: No Effect >> High Critical Ratio
+
+Draining Kiss
+Power: 50 >> 75
+Recovery: 75% >> 50% (Engine limitation)
+
+Drill Peck
+Power: 80 >> 100
+PP: 20 >> 10
+
+Drill Run
+Accuracy: 95% >> 100%
+
+Dual Wingbeat
+Accuracy: 90% >> 100%
+
+Esper Wing
+Effect: +1 Priority, High Critical Ratio
+Accuracy: 90% >> 100%
+
+Flame Wheel
+Power: 60 >> 75
+PP: 25 >> 15
+
+Fly
+Power: 90 >> 100
+Accuracy: 95% >> 100%
+
+Fury Cutter
+Accuracy: 95% >> 100%
+
+Hammer Arm
+Accuracy: 90% >> 100%
+
+Headlong Rush
+Power: 100 >> 120
+Effect: Lower own Defense and Special Defense
+
+Icicle Crash
+Accuracy: 90% >> 100%
+
+Icy Wind
+Power: 55 >> 60
+Accuracy: 95% >> 100%
+
+Leaf Storm
+Accuracy: 90% >> 100%
+
+Leech Seed
+Accuracy: 90% >> 100%
+
+Mega Drain
+Power: 40 >> 60
+PP: 15 >> 10
+
+Mega Kick
+Power: 120 >> 110
+Accuracy: 75% >> 100%
+PP: 5 >> 15
+
+Mega Punch
+Power: 80 >> 110
+Accuracy: 85% >> 100%
+PP: 20 >> 15
+
+Metal Claw
+Accuracy: 95% >> 100%
+
+Mud Shot
+Accuracy: 95% >> 100%
+
+Needle Arm
+Power: 60 >> 100
+Effect: Flinch (30%) >> Flinch (10%)
+
+Octazooka
+Power: 65 >> 80
+Accuracy: 85% >> 100%
+Effect: Lower Foe Accuracy (50%) >> Raise Special Attack (50%)
+
+Overheat
+Accuracy: 90% >> 100%
+
+Parabolic Charge
+Power: 65 >> 75
+PP: 20 >> 10
+
+Pin Missile
+Accuracy: 95% >> 100%
+
+Play Rough
+Accuracy: 90% >> 100%
+
+Poison Gas
+Accuracy: 90% >> 100%
+
+Poison Tail
+Power: 50 >> 90
+PP: 25 >> 15
+
+Power Gem
+Power: 80 >> 90
+
+Psycho Cut:
+Power: 70 >> 90
+
+Rage
+Power: 20 >> 120
+PP: 20 >> 10
+Effect: Locked to the move, Attack rises when hit >> Locked to the move for 2-3 turns, becomes confused after (Outrage's effect)
+Type: Normal >> Fighting
+Now targets enemies randomly, like Outrage does.
+
+Razor Leaf
+Accuracy: 95% >> 100%
+
+Rock Blast
+Accuracy: 90% >> 100%
+
+Rock Climb
+Power: 90 >> 80
+Accuracy: 85% >> 95%
+PP: 20 >> 10
+Type: Normal >> Rock
+
+Rock Slide
+Accuracy: 90% >> 100%
+
+Rock Smash
+Power: 40 >> 60
+
+Rock Throw
+Accuracy: 90% >> 100%
+
+Rock Tomb
+Accuracy: 95% >> 100%
+
+Rock Wrecker
+Power: 150 >> 120
+Accuracy: 80% >> 100%
+Effect: Must Recharge >> Lower own Attack and Defense
+
+Rollout
+Accuracy: 90% >> 100%
+
+Scald
+Effect: Burn (30%) + Self thaw + Thaw enemy frozen Pokémon >> Burn (30%) + Self thaw (Engine limitation)
+
+Seed Bomb
+Power: 80 >> 100
+Effect: None >> Lower Foe Defense (10%)
+PP: 15 >> 10
+
+Shadow Claw
+Power: 65 >> 90
+PP: 15 >> 10
+
+Sky Uppercut
+Accuracy: 90% >> 100%
+
+Sludge
+Power: 65 >> 75
+PP: 20 >> 15
+
+Strength:
+Power: 80 >> 100
+Effect: No Effect >> Raise Attack (10%)
+
+Triple Axel
+Power: 20 >> 30
+Successive Hits Power: 20 >> 10 (Engine limitation)
+Accuracy: 90% >> 100%
+
+Triple Kick
+Power: 10 >> 30
+Accuracy: 90% >> 100%
+
+Wave Crash
+Power: 75 >> 120
+PP: 10 >> 15
+Effect: 1/3 Recoil
+
+Wild Charge
+Power: 90 >> 100
+
+X-Scissor
+Power: 80 >> 90
+Effect: No Effect >> High Critical Ratio
+
+Zen Headbutt
+Accuracy: 90% >> 100%
+
+=========================================================
+Move Group Modifications
+=========================================================
+Batch changes made to multiple similar moves.
+
+Swords Dance/Nasty Plot/Bulk Up/Calm Mind/Dragon Dance/Tail Glow/Agility/Rock Polish/Acupressure
+PP: ?? >> 1
+
+Acid Armor/Iron Defense/Amnesia/Cosmic Power/Growth/Howl/Curse
+PP: ?? >> 2
+
+Double Team
+PP: 15 >> 1
+Effect: Raise user's evasiveness >> Raise user's Speed sharply
+
+Giga Impact/Hyper Beam/Frenzy Plant/Blast Burn/Hydro Cannon
+Power: 150 >> 140
+Effect: Must Recharge >> 1/2 recoil
+
+Fire Blast/Thunder/Blizzard/Hydro Pump/Focus Blast/Hurricane
+Power: ?? >> 110
+Accuracy: ?? >> 85%
+PP: ?? >> 5
+Effect(Hurricane): Confusion (30%) >> No Effect (Engine limitation)
+
+Stone Edge/Iron Tail/Dragon Rush/Gunk Shot
+Power: ?? >> 110
+Accuracy: ?? >> 85%
+PP: ?? >> 5
+
+Elemental Fangs(plus Poison Fang)
+Power: 65(50) >> 75
+Accuracy: 95(100) >> 100
+Effect(Poison Fang): Badly Poison(50%) >> Badly Poison(10%)
+
+Elemental Punches(plus Shadow Punch)
+Power: 75(60) >> 80
+
+Zap Cannon
+Power: 120 >> 100
+Accuracy: 50% >> 90%
+PP: 5 >> 10
+Effect Chance: 100% >> 20%

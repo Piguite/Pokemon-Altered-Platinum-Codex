@@ -1,0 +1,909 @@
+o-----------------------------------o
+| Pokémon Altered Platinum          |
+| Wild Pokémon (r1.0.5)             |
+| Original hack by Drayano          |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- The Wild Pokémon in each area have been modified.
+- The levels listed for an area are the minimum and maximum levels that you may encounter in that area.
+- Please note that many Pokémon can only be encountered at one specific level. Only some have the range.
+- Fishing rod encounters have levels based on area.
+- The different rods have been replaced by Lures, new items obtained and used in the same way, which do not change level, but instead change what Pokémon you encounter.
+- The Worm Lure and Berry Lure are obtainable from the same places as the Old Rod and Good Rod, respectively. The Fish Lure is obtainable in Snowpoint City.
+- While the lures are meant to attract certain kinds of Pokémon, small, closed off bodies of water have only a limited range of different species.
+- Oceans, rivers, and cave lakes connected to underground rivers have the widest variety. Lakes are average, and isolated ponds are the least varied.
+- Honey trees now respond with an encounter straight away after applying Honey.
+- Please note that the shiny rate for Pokémon is 1/512.
+- Some Pokémon are only found when using the Poké Radar (these are listed as Poké Radar). These Pokémon may show up when you enter the patches with the yellow sparkles (NOT the shiny sparkles, that's something else!)
+- Sinnohan Forms are marked by an (S) after the Pokémon's name. Note that they replace the originals, however, so this is only for convenience.
+
+=========================================================
+Area Changes
+=========================================================
+
+Twinleaf Town
+Levels: 4 - 5 (Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Magikarp (60%), Feebas (30%), Poliwag (10%)
+Berry Lure	Poliwag (65%), Lotad (30%), Dratini(S)(5%)
+Fish Lure	Magikarp(65%), Feebas(60%), Dratini(S)(5%)
+
+Route 201
+Levels: 4 - 5 (Walking)
+==================================================================================================================================
+Morning     Starly (30%), Bidoof (30%), Pidgey (10%), Kricketot (10%), Nidoran♂ (10%), Nidoran♀ (10%)
+Day         Starly (30%), Bidoof (30%), Pidgey (20%), Nidoran♂ (10%), Nidoran♀ (10%)
+Night       Starly (30%), Bidoof (30%), Hoothoot(S) (10%), Kricketot (10%), Nidoran♂ (10%), Nidoran♀ (10%)
+Poké Radar  Doduo (22%)
+
+Lake Verity
+Levels: 4 - 5 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Day         Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Night       Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Poké Radar  Wynaut (22%)
+Surf        Surskit (90%), Masquerain (10%)
+Surf        Surskit (60%), Ponyta(S) (30%), Rapidash(S) (5%), Masquerain (5%)
+Worm Lure	Magikarp (60%), Finneon (30%), Dratini(S) (10%)
+Berry Lure	Finneon (60%), Ponyta(S) (30%), Marill (10%)
+Fish Lure	Goldeen (60%), Magikarp (30%), Barboach (10%)
+
+Route 202
+Levels: 5 - 6 (Walking)
+==================================================================================================================================
+Morning     Shinx (20%), Poochyena(S) (20%), Sentret(S) (20%), Rattata (10%), Zigzagoon (10%), Vulpix (10%), Burmy (10%)
+Day         Shinx (20%), Poochyena(S) (20%), Sentret(S) (20%), Rattata (10%), Zigzagoon (10%), Vulpix (10%), Burmy (10%)
+Night       Shinx (20%), Poochyena(S) (20%), Hoothoot(S) (20%), Rattata (10%), Zigzagoon (10%), Vulpix (10%), Burmy (10%)
+Poké Radar  Houndour (22%)
+
+Route 204 ~ South
+Levels: 6 - 7 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Taillow (20%), Mareep(S) (20%), Bellsprout (10%), Oddish (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Ledyba (10%)
+Day         Taillow (20%), Mareep(S) (20%), Bellsprout (10%), Oddish (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Sunkern (10%)
+Night       Taillow (20%), Mareep(S) (20%), Bellsprout (10%), Oddish (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Spinarak(S) (10%)Poké Radar  Gloom (22%)
+Surf        Marill (90%), Azumarill (10%)
+Worm Lure	Horsea (60%), Goldeen (30%), Corphish (10%)
+Berry Lure	Lotad (60%), Horsea (40%)
+Fish Lure	Corphish (60%), Goldeen (40%)
+
+Ravaged Path
+Levels: 6 - 8 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Zubat (20%), Geodude (20%), Spinarak(S) (20%), Wooper (10%), Sandshrew(S) (10%), Makuhita (10%), Electrike(S) (10%)
+Day         Zubat (20%), Geodude (20%), Spinarak(S) (20%), Wooper (10%), Sandshrew(S) (10%), Makuhita (10%), Electrike(S) (10%)
+Night       Zubat (20%), Geodude (20%), Spinarak(S) (20%), Wooper (10%), Sandshrew(S) (10%), Makuhita (10%), Electrike(S) (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Worm Lure	Barboach (60%), Wooper (30%), Psyduck (10%)
+Berry Lure	Psyduck (60%), Wooper (30%), Luvdisc (10%)
+Fish Lure	Barboach (60%), Remoraid (30%), Wooper (10%)
+
+Route 203
+Levels: 7 - 8 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Starly (25%), Ralts (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Day         Starly (25%), Ralts (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Night       Starly (25%), Ralts (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Poké Radar  Shroomish (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Magikarp (60%), Corphish (30%), Slowpoke (10%)
+Berry Lure	Slowpoke (60%), Magikarp (40%)
+Fish Lure	Corphish (60%), Magikarp (40%)
+
+Oreburgh Gate ~ 1F
+Levels: 7 - 9 (Walking)
+==================================================================================================================================
+Morning     Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Day         Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+Night       Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+
+Oreburgh Gate ~ B1F
+Levels: 8 - 10 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Zubat (30%), Geodude (30%), Electrike(S) (20%), Riolu (10%), Diglett (10%)
+Day         Zubat (30%), Geodude (30%), Electrike(S) (20%), Riolu (10%), Diglett (10%)
+Night       Zubat (30%), Geodude (30%), Electrike(S) (20%), Riolu (10%), Diglett (10%)
+Surf        Zubat (90%), Golbat (10%)
+Worm Lure	Magikarp (60%), Carvanha (30%), Chinchou(S) (10%)
+Berry Lure	Corsola (60%), Magikarp (30%), Qwilfish (10%)
+Fish Lure	Carvanha (60%), Qwilfish (30%), Chinchou(S) (10%)
+
+Route 207
+Levels: 9 - 10 (Walking), 21 (Honey Tree)
+==================================================================================================================================
+Morning     Machop (30%), Rhyhorn (20%), Meditite(S) (20%), Phanpy (20%), Larvitar (10%)
+Day         Machop (30%), Rhyhorn (20%), Meditite(S) (20%), Phanpy (20%), Larvitar (10%)
+Night       Machop (30%), Rhyhorn (20%), Meditite(S) (20%), Phanpy (20%), Larvitar (10%)
+Poké Radar  Stantler (22%)
+Honey Tree  Aipom(S) (30%), Slakoth (20%), Metapod(S) (20%), Kakuna(S) (20%), Munchlax (10%)
+
+Oreburgh Mine ~ 1F
+Levels: 9 - 10 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+Day         Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+Night       Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+
+Oreburgh Mine ~ B1F
+Levels: 10 - 11 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+Day         Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+Night       Geodude (20%), Zubat (20%), Whismur (20%), Aron(S) (15%), Slugma(S) (15%), Onix (10%)
+
+Route 204 ~ North
+Levels: 11 - 12 (Walking)
+==================================================================================================================================
+Morning     Starly (20%), Oddish (20%), Pachirisu (10%), Mareep(S) (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Ledyba (10%)
+Day         Starly (20%), Oddish (20%), Pachirisu (10%), Mareep(S) (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Sunkern (10%)
+Night       Starly (20%), Oddish (20%), Pachirisu (10%), Mareep(S) (10%), Caterpie(S) (10%), Weedle(S) (10%), Wurmple (10%), Spinarak(S) (10%)
+Poké Radar  Gloom (22%)
+
+Valley Windworks
+Levels: 11 - 13 (Walking/Fishing), 20 - 40 (Surfing), 12 (Honey Tree)
+==================================================================================================================================
+Morning     Magnemite (20%), Elekid (20%), Pineco(S) (20%), Voltorb (20%), Drifloon (10%), Budew(S) (10%)
+Day         Magnemite (20%), Elekid (20%), Pineco(S) (20%), Voltorb (20%), Drifloon (10%), Budew(S) (10%)
+Night       Magnemite (20%), Elekid (20%), Pineco(S) (20%), Voltorb (20%), Drifloon (10%), Budew(S) (10%)
+Poké Radar  Plusle (11%), Minun (11%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Worm Lure	Mantyke (60%), Shellder (30%), Staryu (10%)
+Berry Lure	Mantyke (60%), Shellos (30%), Staryu (10%)
+Fish Lure	Corphish (60%), Shellder (30%), Dratini(S) (10%)
+Honey Tree  Aipom(S) (30%), Slakoth (20%), Caterpie(S) (20%), Weedle(S) (20%), Munchlax (10%)
+
+Floaroma Meadow
+Levels: 12 (Honey Tree)
+==================================================================================================================================
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+
+Route 205 ~ South
+Levels: 11 - 13 (Walking/Fishing), 20 - 40 (Surfing), 12 (Honey Tree)
+==================================================================================================================================
+Morning     Shellos (30%), Budew(S) (20%), Buizel (20%), Hoppip (20%), Mareep(S) (10%)
+Day         Shellos (30%), Budew(S) (20%), Buizel (20%), Hoppip (20%), Mareep(S) (10%)
+Night       Shellos (30%), Budew(S) (20%), Buizel (20%), Venonat (20%), Mareep(S) (10%)
+Poké Radar  Plusle (11%), Minun (11%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Worm Lure	Mantyke (60%), Shellder (30%), Tentacool (10%)
+Berry Lure	Mantyke (60%), Shellos (30%), Staryu (10%)
+Fish Lure	Corphish (60%), Shellder (30%), Dratini(S) (10%)
+Honey Tree  Combee (30%), Burmy (20%), Pichu (20%), Wurmple (20%), Heracross (10%)
+
+Eterna Forest
+Levels: 14 - 16 (Walking)
+==================================================================================================================================
+Morning     Buneary (30%), Shroomish (20%), Paras(S) (20%), Slakoth (10%), Ledyba (10%), Weedle(S) (10%)
+Day         Buneary (30%), Shroomish (20%), Paras(S) (20%), Slakoth (10%), Ledyba (10%), Weedle(S) (10%)
+Night       Buneary (30%), Shroomish (20%), Murkrow (10%), Misdreavus (10%), Slakoth (10%), Ledyba (10%), Weedle(S) (10%)
+Poké Radar  Beautifly (11%), Dustox (11%)
+
+Eterna Forest (Outside)
+Levels: 15 (Honey Tree)
+==================================================================================================================================
+Honey Tree  Beedrill(S) (100%)
+
+Old Chateau (All Rooms)
+Levels: 15 - 18 (Walking)
+==================================================================================================================================
+Morning     Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Day         Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Night       Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+
+Route 205 ~ North
+Levels: 15 - 17 (Walking/Fishing), 20 - 40 (Surfing), 16 (Honey Tree)
+==================================================================================================================================
+Morning     Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Day         Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Night       Bidoof (20%), Slowpoke (20%), Marill (20%), Croagunk (10%), Exeggcute (10%), Volbeat (10%), Illumise (10%)
+Poké Radar  Yanma (22%)
+Surf        Marill (90%), Azumarill (10%)
+Worm Lure	Barboach (60%), Magikarp (30%), Corphish (10%)
+Berry Lure	Marill (60%), Magikarp (30%), Barboach (10%)
+Fish Lure	Corphish (60%), Magikarp (30%), Barboach (10%)
+Honey Tree  Starly (30%), Pidgey (20%), Hoothoot(S) (20%), Taillow (20%), Farfetch'd (10%)
+
+Eterna City
+Levels: 15 - 17 (Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Feebas (60%), Poliwag (30%), Finneon (10%)
+Berry Lure	Finneon (60%), Psyduck (30%), Poliwag (10%)
+Fish Lure	Feebas (60%), Psyduck (30%), Poliwag (10%)
+
+Route 211 ~ West
+Levels: 16 - 18 (Walking)
+==================================================================================================================================
+Morning     Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Day         Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Night       Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Poké Radar  Tyrogue (22%)
+
+Mt. Coronet ~ Route 211 Entrance
+Levels: 16 - 18 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Cleffa (10%), Sandshrew(S) (10%), Zubat (10%), Nosepass (10%), Solrock(S) (10%), Lunatone(S) (10%)
+Day         Geodude (20%), Bronzor (20%), Cleffa (10%), Sandshrew(S) (10%), Zubat (10%), Nosepass (10%), Solrock(S) (10%), Lunatone(S) (10%)
+Night       Geodude (20%), Bronzor (20%), Cleffa (10%), Sandshrew(S) (10%), Zubat (10%), Nosepass (10%), Solrock(S) (10%), Lunatone(S) (10%)
+
+Route 211 ~ East
+Levels: 18 - 19 (Walking), 18 (Honey Tree)
+==================================================================================================================================
+Morning     Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Day         Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Night       Meditite(S) (30%), Nincada (20%), Swablu(S) (20%), Teddiursa (10%), Natu (10%), Bagon (10%)
+Poké Radar  Delibird (22%)
+Honey Tree  Aipom(S) (30%), Slakoth (20%), Metapod(S) (20%), Kakuna(S) (20%), Munchlax (10%)
+
+Mt. Coronet ~ Tunnel to Route 211 Entrance
+Levels: 18 - 19 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Trapinch(S) (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Absol(S) (10%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Trapinch(S) (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Absol(S) (10%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Trapinch(S) (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Absol(S) (10%)
+
+Mt. Coronet ~ B1F
+Levels: 19 - 20 (Walking/Fishing), 30 - 45 (Surfing)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Sandshrew(S) (20%), Clefairy (10%), Zubat (10%), Electrike(S) (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Day         Geodude (20%), Bronzor (20%), Sandshrew(S) (20%), Clefairy (10%), Zubat (10%), Electrike(S) (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Night       Geodude (20%), Bronzor (20%), Sandshrew(S) (20%), Clefairy (10%), Zubat (10%), Electrike(S) (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Surf        Spheal (60%), Seel (30%), Sealeo (10%)
+Worm Lure	Spheal (60%), Feebas (30%), Seel (10%)
+Berry Lure	Lapras (60%), Seel (30%), Feebas (10%)
+Fish Lure	Corphish (60%), Feebas (30%), Lapras (10%)
+
+Mt. Coronet ~ Route 216 Entrance
+Levels: 18 - 19 (Walking)
+==================================================================================================================================
+Morning     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Day         Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Night       Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Beldum (10%), Solrock(S) (5%), Lunatone(S) (5%)
+
+Route 216
+Levels: 18 - 20 (Walking)
+==================================================================================================================================
+Morning     Snover (30%), Swinub (20%), Growlithe(S) (20%), Smoochum (10%), Snorunt (10%), Sneasel (10%)
+Day         Snover (30%), Swinub (20%), Growlithe(S) (20%), Smoochum (10%), Snorunt (10%), Sneasel (10%)
+Night       Snover (30%), Swinub (20%), Growlithe(S) (20%), Smoochum (10%), Snorunt (10%), Sneasel (10%)
+Poké Radar  Scyther(S) (22%)
+
+Route 206
+Levels: 20 - 22 (Walking), 21 (Honey Tree)
+==================================================================================================================================
+Morning     Stunky (20%), Yanma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Day         Stunky (20%), Yanma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Night       Stunky (20%), Yanma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Poké Radar  Torkoal (22%)
+Honey Tree  Combee (30%), Burmy (20%), Pichu (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)
+
+Wayward Cave (Both)
+Levels: 20 - 22
+==================================================================================================================================
+Morning     Zubat (20%), Geodude (20%), Gible (20%), Dunsparce(S) (20%), Baltoy (10%), Sableye (5%), Mawile (5%)
+Day         Zubat (20%), Geodude (20%), Gible (20%), Dunsparce(S) (20%), Baltoy (10%), Sableye (5%), Mawile (5%)
+Night       Zubat (20%), Geodude (20%), Gible (20%), Dunsparce(S) (20%), Baltoy (10%), Sableye (5%), Mawile (5%)
+
+Mt. Coronet ~ Route 207 Entrance
+Levels: 22 - 23 (Walking/Fishing), 20 - 40 (Surfing)
+==================================================================================================================================
+Morning     Geodude (20%), Aron(S) (20%), Clefairy (10%), Nosepass (10%), Electrike(S) (10%), Golbat (10%), Metang (10%), Torkoal (5%), Trapinch(S) (5%)
+Day         Geodude (20%), Aron(S) (20%), Clefairy (10%), Nosepass (10%), Electrike(S) (10%), Golbat (10%), Metang (10%), Torkoal (5%), Trapinch(S) (5%)
+Night       Geodude (20%), Aron(S) (20%), Clefairy (10%), Nosepass (10%), Electrike(S) (10%), Golbat (10%), Metang (10%), Torkoal (5%), Trapinch(S) (5%)
+Surf        Zubat (90%), Golbat (10%)
+Worm Lure	Magikarp (65%), Barboach (30%), Chinchou(S) (5%)
+Berry Lure	Barboach (60%), Magikarp (30%), Quagsire (10%)
+Fish Lure	Magikarp (60%), Chinchou(S) (30%), Barboach (10%)
+
+Route 208
+Levels: 23 - 24 (Walking/Fishing), 20 - 40 (Surfing), 23 (Honey Tree)
+==================================================================================================================================
+Morning     Doduo (20%), Smeargle (20%), Tropius(S) (20%), Skitty (10%), Jigglypuff (10%), Zangoose (10%), Seviper (10%)
+Day         Doduo (20%), Smeargle (20%), Tropius(S) (20%), Skitty (10%), Jigglypuff (10%), Zangoose (10%), Seviper (10%)
+Night       Doduo (20%), Smeargle (20%), Tropius(S) (20%), Skitty (10%), Jigglypuff (10%), Zangoose (10%), Seviper (10%)
+Poké Radar  Spinda (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Goldeen (60%), Remoraid (35%), Relicanth (5%)
+Berry Lure	Psyduck (60%), Goldeen (30%), Remoraid (10%)
+Fish Lure	Carvanha (60%), Goldeen (30%), Relicanth (10%)
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+
+Route 212 ~ North
+Levels: 24 - 26 (Walking/Fishing), 20 - 40 (Surfing), 25 (Honey Tree)
+==================================================================================================================================
+Morning     Staravia (20%), Marill (20%), Roselia(S) (20%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Day         Staravia (20%), Marill (20%), Roselia(S) (20%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Night       Staravia (20%), Marill (20%), Roselia(S) (20%), Weepinbell (10%), Gloom (10%), Kirlia (10%), Smeargle (10%)
+Poké Radar  Farfetch'd (22%)
+Surf        Marill (90%), Azumarill (10%)
+Worm Lure	Magikarp (60%), Goldeen (30%), Marill (10%)
+Berry Lure	Marill (60%), Magikarp (30%), Finneon (10%)
+Fish Lure	Corphish (60%), Marill (30%), Magikarp (10%)
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+Trophy Garden
+Levels: 24 - 26
+==================================================================================================================================
+Morning     Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi(S) (10%), Porygon(S) (10%), Happiny (10%), Eevee (10%)
+Day         Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi(S) (10%), Porygon(S) (10%), Happiny (10%), Eevee (10%)
+Night       Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi(S) (10%), Porygon(S) (10%), Happiny (10%), Eevee (10%)
+Poké Radar  Castform (22%)
+
+Route 209
+Levels: 24 - 26 (Walking/Fishing), 20 - 40 (Surfing), 27 (Honey Tree)
+==================================================================================================================================
+Morning     Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Day         Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Night       Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Poké Radar  Purugly (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Magikarp (60%), Carvanha (35%), Tentacool (5%)
+Berry Lure	Lombre (60%), Psyduck (30%), Magikarp (10%)
+Fish Lure	Carvanha (60%), Magikarp (30%), Tentacool (10%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Hoothoot(S) (20%), Swellow (20%), Farfetch'd (10%)
+
+Lost Tower
+Levels: 26 - 30
+==================================================================================================================================
+Morning     Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+Day         Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+Night       Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+
+Solaceon Ruins
+Levels: 20 - 30
+==================================================================================================================================
+Morning     Unown (100%)
+Day         Unown (100%)
+Night       Unown (100%)
+
+Route 210 ~ South
+Levels: 28 - 30 (Walking), 29 (Honey Tree)
+==================================================================================================================================
+Morning     Kricketune (20%), Nuzleaf (20%), Scyther(S) (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Chansey (5%)
+Day         Kricketune (20%), Nuzleaf (20%), Scyther(S) (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Chansey (5%)
+Night       Kricketune (20%), Nuzleaf (20%), Scyther(S) (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Noctowl(S) (10%), Chansey (5%)
+Poké Radar  Kecleon (22%)
+Honey Tree  Combee (30%), Pichu (20%), Silcoon (10%), Cascoon (10%), Wormadam (10%), Mothim (10%), Heracross (10%)
+
+Route 215
+Levels: 27 - 30 (Walking), 28 (Honey Tree)
+==================================================================================================================================
+Morning     Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena(S) (10%), Linoone (10%), Hypno (5%)
+Day         Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena(S) (10%), Linoone (10%), Hypno (5%)
+Night       Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena(S) (10%), Linoone (10%), Hypno (5%)
+Poké Radar  Absol(S) (22%)
+Honey Tree  Aipom(S) (30%), Vigoroth (20%), Metapod(S) (20%), Kakuna(S) (20%), Munchlax (10%)
+
+Route 214
+Levels: 28 - 32 (Walking/Fishing), 20 - 40 (Surfing), 30 (Honey Tree)
+==================================================================================================================================
+Morning     Graveler (30%), Houndour (20%), Rhyhorn (10%), Numel (10%), Cacnea (10%), Solrock(S) (10%), Lunatone(S) (10%)
+Day         Graveler (30%), Houndour (20%), Rhyhorn (10%), Numel (10%), Cacnea (10%), Solrock(S) (10%), Lunatone(S) (10%)
+Night       Graveler (30%), Houndour (20%), Rhyhorn (10%), Numel (10%), Cacnea (10%), Solrock(S) (10%), Lunatone(S) (10%)
+Poké Radar  Dunsparce(S) (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Worm Lure	Gyarados (60%), Azumarill (30%), Whiscash (10%)
+Berry Lure	Azumarill (60%), Whiscash (30%), Ponyta(S) (10%)
+Fish Lure	Whiscash (60%), Gyarados (30%), Azumarill (10%)
+Honey Tree  Aipom(S) (30%), Vigoroth (20%), Butterfree(S) (20%), Beedrill(S) (20%), Munchlax (10%)
+
+Maniac Tunnel
+Levels: 28 - 32
+==================================================================================================================================
+Morning     Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch(S) (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+Day         Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch(S) (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+Night       Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch(S) (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+
+Valor Lakefront
+Levels: 31 - 33
+==================================================================================================================================
+Morning     Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Day         Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Night       Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Poké Radar  Venomoth (22%)
+
+Route 213
+Levels: 32 - 34 (Walking/Fishing), 20 - 40 (Surfing), 33 (Honey Tree)
+==================================================================================================================================
+Morning     Gastrodon (25%), Floatzel (20%), Pelipper (20%), Swellow (20%), Chatot (10%), Shuckle (5%)
+Day         Gastrodon (25%), Floatzel (20%), Pelipper (20%), Swellow (20%), Chatot (10%), Shuckle (5%)
+Night       Gastrodon (35%), Floatzel (30%), Pelipper (20%), Swellow (20%), Shuckle (5%)
+Poké Radar  Absol(S) (22%)
+Surf        Tentacool (60%), Wingull (30%), Tentacruel (5%), Pelipper (5%)
+Worm Lure	Octillery (60%), Wailmer (30%), Gyarados (10%)
+Berry Lure	Wailmer (60%), Lumineon (30%), Ponyta(S) (10%)
+Fish Lure	Sharpedo (60%), Gyarados (30%), Octillery (10%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl(S) (20%), Swellow (20%), Farfetch'd (10%)
+
+Pastoria City
+Levels: 33-36 (Fishing), 30 - 40 (Surfing)
+==================================================================================================================================
+Surf        Tentacool (60%), Gastrodon (30%), Toxicroak (10%)
+Worm Lure	Gyarados (60%), Gastrodon (30%), Sharpedo (10%)
+Berry Lure	Ludicolo (60%), Gastrodon (30%), Gyarados (10%)
+Fish Lure	Sharpedo (60%), Gyarados (30%), Gastrodon (10%)
+
+Great Marsh ~ Area 1/2
+Levels: 33 - 36 (Walking/Fishing), 30 - 40 (Surfing)
+==================================================================================================================================
+Morning     Bibarel (30%), Quagsire (20%), Tropius(S) (20%), Tangrowth (20%), Carnivine (10%)
+Day         Bibarel (30%), Quagsire (20%), Tropius(S) (20%), Tangrowth (20%), Carnivine (10%)
+Night       Bibarel (30%), Quagsire (20%), Tropius(S) (20%), Tangrowth (20%), Carnivine (10%)
+Surf        Quagsire (60%), Gastrodon (35%), Swampert (5%)
+Worm Lure	Whiscash (60%), Quagsire (30%), Gyarados (10%)
+Berry Lure	Quagsire (60%), Tangrowth (30%), Whiscash (10%)
+Fish Lure	Sharpedo (60%), Whiscash (30%), Gyarados (10%)
+
+Great Marsh ~ Area 3/4
+Levels: 33 - 36 (Walking/Fishing), 30 - 40 (Surfing)
+==================================================================================================================================
+Morning     Parasect(S) (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Day         Parasect(S) (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Night       Parasect(S) (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Surf        Ludicolo (60%), Gastrodon (30%), Toxicroak (10%)
+Worm Lure	Whiscash (60%), Toxicroak (30%), Gyarados (10%)
+Berry Lure	Poliwhirl (60%), Tangrowth (30%), Whiscash (10%)
+Fish Lure	Sharpedo (60%), Whiscash (30%), Gyarados (10%)
+
+Great Marsh ~ Area 5/6
+Levels: 33 - 36 (Walking/Fishing), 30 - 40 (Surfing)
+==================================================================================================================================
+Morning     Skorupi (30%), Parasect(S) (20%), Breloom (20%), Drapion (15%), Swalot (10%), Sceptile (5%)
+Day         Skorupi (30%), Parasect(S) (20%), Breloom (20%), Drapion (15%), Swalot (10%), Sceptile (5%)
+Night       Skorupi (30%), Parasect(S) (20%), Breloom (20%), Drapion (15%), Swalot (10%), Sceptile (5%)
+Surf        Muk (60%), Gastrodon (35%), Feraligatr (10%)
+Worm Lure	Whiscash (60%), Muk (30%), Gyarados (10%)
+Berry Lure	Swalot (60%), Tangrowth (30%), Whiscash (10%)
+Fish Lure	Sharpedo (60%), Whiscash (30%), Gyarados (10%)
+
+Route 212 ~ South
+Levels: 33 - 36 (Walking/Fishing), 30 - 40 (Surfing), Honey Tree (34)
+==================================================================================================================================
+Morning     Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Venusaur (5%)
+Day         Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Venusaur (5%)
+Night       Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Venusaur (5%)
+Poké Radar  Muk (11%), Weezing (11%)
+Surf		Shellos (60%), Quagsire (30%), Gastrodon (5%), Toxicroak (5%)
+Worm Lure	Whiscash (60%), Octillery (30%), Muk (10%)
+Berry Lure	Muk (60%), Gastrodon (30%), Whiscash (10%)
+Fish Lure	Sharpedo (60%), Toxicroak (30%), Octillery (10%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+Route 210 ~ North
+Levels: 34 - 38 (Walking/Fishing), 30 - 40 (Surfing), Honey Tree (37)
+==================================================================================================================================
+Morning     Swablu(S) (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (5%), Typhlosion (5%)
+Day         Swablu(S) (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (5%), Typhlosion (5%)
+Night       Swablu(S) (20%), Fearow (20%), Machoke (10%), Drifblim (10%), Zangoose (10%), Seviper (10%), Skarmory (10%), Shelgon (5%), Typhlosion (5%)
+Poké Radar  Altaria(S) (22%)
+Surf		Psyduck (60%), Goldeen (30%), Seaking (5%), Blastoise (5%)
+Worm Lure	Seadra (60%), Gyarados (30%), Dragonair(S) (10%)
+Berry Lure	Lumineon (60%), Golduck (30%), Seadra (10%) 
+Fish Lure	Seaking (60%), Gyarados (35%), Empoleon (5%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl(S) (20%), Swellow (20%), Farfetch'd (10%)
+
+Celestic Town
+Levels: 35 - 40 (Fishing), 30 - 45 (Surfing), 35-60 (Fish Lure), 100 (1% Fish Lure encounter)
+==================================================================================================================================
+Surf		Psyduck (60%), Lumineon (30%), Golduck (5%), Relicanth (5%)
+Worm Lure	Gyarados (60%), Whiscash (35%), Relicanth (5%)
+Berry Lure	Milotic (60%), Whiscash (35%), Relicanth (5%)
+Fish Lure	Barboach (90%), Whiscash (10%)
+
+Route 219
+Wild Levels: 30 - 45 (Surf), 9-10 (Fishing)
+==================================================================================================================================
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Worm Lure	Remoraid (60%), Seel (30%), Krabby (10%)
+Berry Lure	Clamperl (60%), Ponyta(S) (30%), Seel (10%)
+Fish Lure	Carvanha (60%), Seel (30%), Remoraid (10%)
+
+Route 220
+Wild Levels: 30 - 45 (Surf/Fishing)
+==================================================================================================================================
+Surf        Wingull (60%), Mantyke (30%), Pelipper (5%), Mantine (5%)
+Worm Lure	Octillery (60%), Dewgong (30%), Kingler (10%)
+Berry Lure	Rapidash(S) (60%), Luvdisc (30%), Gorebyss (10%)
+Fish Lure	Sharpedo (60%), Lanturn(S) (30%), Huntail (10%)
+
+Route 221
+Levels: 38 - 40 (Walking), 30 - 45 (Surf/Fishing), 39 (Honey Tree)
+==================================================================================================================================
+Morning     Sudowoodo (20%), Skuntank (20%), Farfetch'd (15%), Nidorina (10%), Nidorino (10%), Girafarig (10%), Dodrio (10%), Meganium (5%)
+Day         Sudowoodo (20%), Skuntank (20%), Farfetch'd (15%), Nidorina (10%), Nidorino (10%), Girafarig (10%), Dodrio (10%), Meganium (5%)
+Night       Sudowoodo (20%), Skuntank (20%), Farfetch'd (15%), Nidorina (10%), Nidorino (10%), Girafarig (10%), Dodrio (10%), Meganium (5%)
+Poké Radar  Infernape (11%), Torterra (11%)
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Worm Lure	Octillery (60%), Dewgong (30%), Kingler (10%)
+Berry Lure	Seadra (60%), Luvdisc (30%), Gorebyss (10%)
+Fish Lure	Sharpedo (60%), Lanturn(S) (30%), Huntail (10%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+Fuego Ironworks
+Levels: 36 - 40 (Walking/Fishing), 30 - 45 (Surf), 40 (Honey Tree)
+==================================================================================================================================
+Morning     Magnemite (30%), Magneton (20%), Magmar (15%), Lairon(S) (15%), Vibrava(S) (15%), Charizard (5%)
+Day         Magnemite (30%), Magneton (20%), Magmar (15%), Lairon(S) (15%), Vibrava(S) (15%), Charizard (5%)
+Night       Magnemite (30%), Magneton (20%), Magmar (15%), Lairon(S) (15%), Vibrava(S) (15%), Charizard (5%)
+Poké Radar  Weezing (22%)
+Surf        Shellos (60%), Tentacool (30%), Gastrodon (5%), Tentacruel (5%)
+Worm Lure	Mantine (60%), Cloyster (30%), Starmie (10%)
+Berry Lure	Mantine (60%), Gastrodon (30%), Starmie (10%)
+Fish Lure	Crawdaunt (60%), Cloyster (30%), Dragonair(S) (10%)
+Honey Tree  Combee (30%), Pikachu (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)
+
+
+Route 218
+Levels: 7 - 8 (Fishing), 38 - 39 (Walking), 30 - 45 (Surfing), 39 (Honey Tree)
+==================================================================================================================================
+Morning     Floatzel (20%), Gastrodon (20%), Electabuzz (15%) ,Purugly (10%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Blaziken (5%)
+Day         Floatzel (20%), Gastrodon (20%), Electabuzz (15%) ,Purugly (10%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Blaziken (5%) 
+Night       Floatzel (20%), Gastrodon (20%), Electabuzz (15%) ,Purugly (20%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Blaziken (5%) 
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Worm Lure	Magikarp (60%), Staryu (30%), Finneon (10%)
+Berry Lure	Finneon (60%), Shellos (35%), Wailmer (5%)
+Fish Lure	Carvanha (60%), Magikarp (30%), Shellos (10%)
+Honey Tree  Combee (30%), Pikachu (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)
+
+Canalave City
+Levels: 38 - 40 (Fishing), 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Worm Lure	Gyarados (60%), Sharpedo (30%), Seaking (10%)
+Berry Lure	Wailord (60%), Lumineon (30%), Starmie (10%)
+Fish Lure	Sharpedo (60%), Gyarados (30%), Kingler (10%)
+
+Iron Island ~ Outside
+Levels: 40 - 42 (Fishing), 30 - 45 (Surfing)
+==================================================================================================================================
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Worm Lure	Gyarados (60%), Qwilfish (30%), Kingdra (10%)
+Berry Lure	Kingdra (60%), Lumineon (30%), Corsola (10%)
+Fish Lure	Qwilfish (60%), Dewgong (30%), Lapras (10%)
+
+Iron Island ~ Inside ~ 1F, B1F
+Levels: 41 - 43
+==================================================================================================================================
+Morning     Graveler (25%), Golbat (20%), Lairon(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Day         Graveler (25%), Golbat (20%), Lairon(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Night       Graveler (25%), Golbat (20%), Lairon(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+
+Iron Island ~ Inside ~ B2F, B3F
+Levels: 43 - 45
+==================================================================================================================================
+Morning     Graveler (25%), Golbat (20%), Aggron(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Day         Graveler (25%), Golbat (20%), Aggron(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+Night       Graveler (25%), Golbat (20%), Aggron(S) (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+
+Route 217
+Levels: 44 - 48
+==================================================================================================================================
+Morning     Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Day         Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poké Radar  Froslass (22%)
+
+Acuity Lakefront
+Levels: 45 - 49
+==================================================================================================================================
+Morning     Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Day         Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poké Radar  Froslass (22%)
+
+Snowpoint Temple
+Levels: 47 - 50
+==================================================================================================================================
+Morning     Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+Day         Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+Night       Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+
+Lake Acuity
+Levels: 49 - 51 (Walking/Fishing), 45 - 50 (Surfing)
+==================================================================================================================================
+Morning     Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Day         Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Night       Sneasel (30%), Abomasnow (25%), Piloswine (20%), Jynx (15%), Glalie (10%)
+Poké Radar  Wobbuffet (22%)
+Surf        Sealeo (60%), Dewgong (35%), Lapras (5%)
+Worm Lure	Gyarados (60%), Dewgong (30%), Lapras (10%)
+Berry Lure	Milotic (60%), Walrein (30%), Lapras (10%)
+Fish Lure	Walrein (60%), Dewgong (30%), Gyarados (10%)
+
+Mt. Coronet ~ 2F
+Levels: 49 - 51 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+
+Mt. Coronet ~ 3F
+Levels: 49 - 51 (Walking)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Sandslash(S) (10%), Golbat (10%), Metang (10%), Metagross (5%), Flygon(S) (5%)
+
+Mt. Coronet ~ Snow Area
+Levels: 50 - 52
+==================================================================================================================================
+Morning     Abomasnow (30%), Forretress(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Day         Abomasnow (30%), Forretress(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Night       Abomasnow (30%), Altaria(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Poké Radar  Clefable (22%)
+
+Mt. Coronet ~ 4F
+Levels: 50 - 52 (Walking/Fishing), 45 - 55 (Surfing)
+==================================================================================================================================
+Morning     Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Day         Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Night       Graveler (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Surf        Zubat (90%), Golbat (10%)
+Worm Lure	Gyarados (60%), Kingdra (35%), Dragonair(S) (5%)
+Berry Lure	Lapras (60%), Kingdra (30%), Seaking (10%)
+Fish Lure	Seaking (60%), Gyarados (30%), Dragonair(S) (10%)
+
+Mt. Coronet ~ Summit
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Abomasnow (30%), Forretress(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Day         Abomasnow (30%), Forretress(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Night       Abomasnow (30%), Altaria(S) (20%), Loudred (20%), Absol(S) (10%), Medicham(S) (10%), Ursaring (10%)
+Poké Radar  Clefable (22%)
+
+Mt. Coronet ~ 5F
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Flygon(S) (10%), Golbat (10%), Metang (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Day         Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Flygon(S) (10%), Golbat (10%), Metang (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Night       Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Flygon(S) (10%), Golbat (10%), Metang (10%), Solrock(S) (5%), Lunatone(S) (5%)
+
+Mt. Coronet ~ 6F
+Levels: 51 - 53 (Walking)
+==================================================================================================================================
+Morning     Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Day         Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+Night       Golem (20%), Bronzong (20%), Clefairy (10%), Probopass (10%), Sandslash(S) (10%), Golbat (10%), Metagross (10%), Solrock(S) (5%), Lunatone(S) (5%)
+
+Mt. Coronet ~ 7F
+Levels: 52 - 54 (Walking), 65 (1% encounter)
+==================================================================================================================================
+Morning     Golem (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Salamence (5%), Tyranitar (5%)
+Day         Golem (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Salamence (5%), Tyranitar (5%)
+Night       Golem (20%), Bronzong (20%), Clefairy (10%), Manectric(S) (10%), Flygon(S) (10%), Golbat (10%), Metagross (10%), Salamence (5%), Tyranitar (5%)
+
+Sendoff Spring
+Level: 53 - 54 (Walking/Fishing), 45 - 55 (Surfing)
+==================================================================================================================================
+Morning     Staravia (30%), Bibarel (20%), Sandslash(S) (20%), Solrock(S) (10%), Lunatone(S) (10%), Dusclops (10%)
+Day         Staravia (30%), Bibarel (20%), Sandslash(S) (20%), Solrock(S) (10%), Lunatone(S) (10%), Dusclops (10%)
+Night       Staravia (30%), Bibarel (20%), Sandslash(S) (20%), Solrock(S) (10%), Lunatone(S) (10%), Dusclops (10%)
+Poké Radar  Wobbuffet (22%)
+Surf		Golduck (60%), Lumineon (30%), Lanturn(S) (10%)
+Worm Lure	Gyarados (60%), Starmie (30%), Lanturn(S) (10%)
+Berry Lure	Lumineon (60%), Golduck (30%), Starmie (10%)
+Fish Lure	Crawdaunt (60%), Lanturn(S) (30%), Gyarados (10%)
+
+Lake Valor
+Level: 53 - 54 (Walking), 53-55 (Fishing), 45 - 55 (Surfing)
+==================================================================================================================================
+Morning     Staravia (30%), Bibarel (30%), Floatzel (20%), Lickitung (10%), Golduck (10%)
+Day         Staravia (30%), Bibarel (30%), Floatzel (20%), Lickitung (10%), Golduck (10%)
+Night       Staravia (30%), Bibarel (30%), Floatzel (20%), Lickitung (10%), Golduck (10%)
+Poké Radar  Wobbuffet (22%)
+Surf		Gyarados (60%), Masquerain (35%), Dragonite(S) (5%)
+Worm Lure	Gyarados (60%), Crawdaunt (30%), Masquerain (10%)
+Berry Lure	Milotic (60%), Masquerain (30%), Bibarel (10%)
+Fish Lure	Bibarel (60%), Crawdaunt (30%) Dragonite(S) (10%)
+
+Turnback Cave
+==================================================================================================================================
+Morning     Haunter (30%), Golbat (25%), Bronzong (15%), Chimecho (10%), Dusclops (10%), Banette (10%)
+Day         Haunter (30%), Golbat (25%), Bronzong (15%), Chimecho (10%), Dusclops (10%), Banette (10%)
+Night       Haunter (30%), Golbat (25%), Bronzong (15%), Chimecho (10%), Dusclops (10%), Banette (10%)
+
+Route 222
+Level: 53 - 54 (Walking/Fishing), 54 (Honey Tree), 48 - 58 (Surfing)
+==================================================================================================================================
+Morning     Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Ambipom(S) (10%), Mr. Mime (10%), Chatot (10%)
+Day         Electabuzz (20%), Floatzel (20%), Luxio (10%), Purugly (10%), Pelipper (10%), Ambipom(S) (10%), Mr. Mime (10%), Chatot (10%)
+Night       Electabuzz (20%), Floatzel (20%), Luxio (20%), Purugly (10%), Pelipper (10%), Ambipom(S) (10%), Mr. Mime (10%)
+Poké Radar  Delcatty (22%)
+Surf        Tentacool (60%), Wingull (30%), Tentacruel (5%), Lanturn(S) (5%)
+Worm Lure	Gyarados (60%), Mantine (30%), Wailord (10%)
+Berry Lure	Lumineon (60%), Wailord (30%), Octillery (10%)
+Fish Lure	Sharpedo (60%), Octillery (30%), Lanturn(S) (10%)
+Honey Tree  Tangela (30%), Heracross (30%), Farfetch'd (30%), Snorlax (10%)
+
+Sunyshore City
+Level: 50 - 60 (Surfing/Fishing)
+==================================================================================================================================
+Surf        Octillery (60%), Pelipper (30%), Mantine (10%)
+Worm Lure	Gyarados (60%), Kingler (30%), Mantine (10%)
+Berry Lure	Milotic (60%), Starmie (30%), Octillery (10%)
+Fish Lure	Sharpedo (60%), Dragonite(S) (30%), Gyarados (10%)
+
+Route 223
+Level: 50 - 60 (Surfing/Fishing)
+==================================================================================================================================
+Surf        Lumineon (60%), Pelipper (30%), Mantine (10%)
+Worm Lure	Gyarados (60%), Kingler (30%), Octillery (10%)
+Berry Lure	Milotic (60%), Starmie (30%), Lumineon (10%)
+Fish Lure	Sharpedo (60%), Dragonite(S) (30%), Gyarados (10%)
+
+Pokémon League
+Level: 50 - 60 (Surfing/Fishing)
+==================================================================================================================================
+Surf        Lumineon (60%), Pelipper (30%), Mantine (10%)
+Worm Lure	Gyarados (60%), Kingler (30%), Octillery (10%)
+Berry Lure	Milotic (60%), Starmie (30%), Lumineon (10%)
+Fish Lure	Sharpedo (60%), Dragonite(S) (30%), Gyarados (10%)
+
+Victory Road ~ 1F
+Level: 59 (Walking)
+==================================================================================================================================
+Morning     Machoke (20%), Golbat (20%), Graveler (10%), Medicham(S) (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+Day         Machoke (20%), Golbat (20%), Graveler (10%), Medicham(S) (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+Night       Machoke (20%), Golbat (20%), Graveler (10%), Medicham(S) (10%), Hariyama (10%), Gabite (10%), Rhydon (10%), Steelix (10%)
+
+Victory Road ~ 2F
+Level: 59 (Walking)
+==================================================================================================================================
+Morning     Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+Day         Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+Night       Steelix (20%), Magneton (20%), Graveler (10%), Kadabra (10%), Lickitung (10%), Golbat (10%), Marowak (10%), Gabite (10%)
+
+Victory Road ~ B1F
+Level: 59 (Walking/Fishing), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Mawile (10%), Sableye (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Surf        Floatzel (65%), Golbat (35%)
+Worm Lure	Gyarados (60%), Lanturn(S) (30%), Azumarill (10%)
+Berry Lure	Milotic (60%), Starmie (30%), Azumarill (10%)
+Fish Lure	Floatzel (60%), Lanturn(S) (30%), Gyarados (10%)
+
+Victory Road ~ 1F Back 1
+Level: 59 (Walking)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+
+Victory Road ~ 1F Back 2
+Level: 59 (Walking/Fishing), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham(S) (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham(S) (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Medicham(S) (10%), Dewgong (10%), Golbat (10%), Gabite (10%)
+Surf        Sealeo (60%), Dewgong (30%), Lapras (10%)
+Worm Lure	Gyarados (60%), Lanturn(S) (30%), Lapras (10%)
+Berry Lure	Milotic (60%), Starmie (30%), Lapras (10%)
+Fish Lure	Walrein (60%), Lanturn(S) (30%), Gyarados (10%)
+
+Victory Road ~ 1F Back 3
+Level: 59 (Walking)
+==================================================================================================================================
+Morning     Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Day         Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+Night       Azumarill (20%), Floatzel (20%), Graveler (10%), Machoke (10%), Manectric(S) (10%), Steelix (10%), Golbat (10%), Gabite (10%)
+
+Route 224
+Level: 59 (Walking/Fishing), 50 - 60 (Surfing)
+==================================================================================================================================
+Morning     Beautifly (20%), Dustox (20%), Weepinbell (10%), Chatot (10%), Roselia(S) (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Day         Beautifly (20%), Dustox (20%), Weepinbell (10%), Chatot (10%), Roselia(S) (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Night       Beautifly (20%), Dustox (20%), Weepinbell (10%), Gloom (10%), Roselia(S) (10%), Gastrodon (10%), Shuckle (10%), Xatu (10%)
+Poké Radar  -
+Surf		Floatzel (60%), Pelipper (30%), Gastrodon (10%)
+Worm Lure	Gyarados (60%), Kingdra (30%), Floatzel (10%)
+Berry Lure	Milotic (60%), Luvdisc (30%), Corsola (10%)
+Fish Lure	Sharpedo (60%), Seaking (30%), Gyarados (10%)
+
+Turnback Cave
+Level: 65 - 66 (Walking)
+==================================================================================================================================
+Morning     Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone(S) (10%), Solrock(S) (10%)
+Day         Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone(S) (10%), Solrock(S) (10%)
+Night       Golbat (20%), Haunter (20%), Dusclops (10%), Banette (10%), Bronzong (10%), Chimecho (10%), Lunatone(S) (10%), Solrock(S) (10%)
+
+Route 225
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Day         Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Night       Fearow (20%), Machoke (20%), Graveler (20%), Raticate (15%), Primeape (15%), Hariyama (5%), Grumpig (5%)
+Surf		Poliwhirl (60%), Golduck (40%), Sharpedo (10%)
+Worm Lure	Gyarados (60%), Sharpedo (30%), Golduck (10%) 
+Berry Lure	Golduck (60%), Politoed (30%), Gyarados (10%)
+Fish Lure	Sharpedo (60%), Poliwrath (30%), Gyarados (10%)
+
+Route 226
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Raticate (20%), Fearow (20%), Arbok (15%), Floatzel (15%), Victreebel (10%), Dodrio (10%), Kingler (10%)
+Day         Raticate (20%), Fearow (20%), Arbok (15%), Floatzel (15%), Victreebel (10%), Dodrio (10%), Kingler (10%)
+Night       Raticate (20%), Fearow (20%), Arbok (15%), Floatzel (15%), Victreebel (10%), Dodrio (10%), Kingler (10%)
+Surf        Pelipper (60%), Kingler (30%), Masquerain (10%)
+Worm Lure	Whiscash (60%), Sharpedo (30%), Relicanth (10%) 
+Berry Lure	Kingdra (60%), Rapidash(S) (30%), Whiscash (10%)
+Fish Lure	Sharpedo (60%), Whiscash (30%), Relicanth (10%)
+
+Route 227
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Day         Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Night       Rhydon (20%), Camerupt (20%), Skarmory (15%), Gligar (15%), Weezing (10%), Torkoal (10%), Spinda (10%)
+Surf        Huntail (60%), Gorebyss (30%), Whiscash (10%)
+Worm Lure	Huntail (60%), Gyarados (30%), Crawdaunt (10%) 
+Berry Lure	Gorebyss (60%), Whiscash (30%), Gyarados (10%)
+Fish Lure	Gyarados (60%), Whiscash (30%), Crawdaunt (10%)
+
+Route 228
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Cacturne (20%), Xatu (20%), Dugtrio (20%), Gliscor (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Day         Cacturne (20%), Xatu (20%), Dugtrio (20%), Gliscor (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Night       Cacturne (20%), Xatu (20%), Dugtrio (20%), Gliscor (10%), Claydol (10%), Hippowdon (10%), Metang (5%), Gabite (5%)
+Surf		Poliwhirl (60%), Whiscash (30%), Quagsire (10%)
+Worm Lure	Whiscash (60%), Crawdaunt (30%), Quagsire (10%)
+Berry Lure	Quagsire (60%), Politoed (30%), Whiscash (10%)
+Fish Lure	Crawdaunt (60%), Poliwrath (30%), Whiscash (10%)
+
+Route 229
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Heracross (20%), Pinsir (20%), Ledian (20%), Yanma (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Day         Heracross (20%), Pinsir (20%), Sunkern (20%), Yanma (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Night       Heracross (20%), Pinsir (20%), Ariados(S) (20%), Yanma (15%), Venomoth (10%), Illumise (5%), Volbeat (5%), Weepinbell (5%)
+Surf		Masquerain (60%), Seaking (30%), Ludicolo (10%)
+Worm Lure	Gyarados (60%), Seaking (30%), Azumarill (10%)
+Berry Lure	Ludicolo (60%), Azumarill (30%), Seaking (10%)
+Fish Lure	Seaking (60%), Azumarill (30%), Gyarados (10%)
+
+Resort Area
+Levels: 1 - 100 (Surf), 1 - 100 (All Rods)
+==================================================================================================================================
+Surf        Magikarp (100%)
+Worm Lure     Magikarp (100%)
+Berry Lure    Magikarp (100%)
+Fish Lure   Magikarp (100%)
+
+Route 230
+Levels: 65 - 67 (Walking/Fishing), 65 - 67 (Surfing)
+==================================================================================================================================
+Morning     Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Vileplume (10%), Zangoose (10%), Seviper (10%), Togetic(S) (5%)
+Day         Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Vileplume (10%), Zangoose (10%), Seviper (10%), Togetic(S) (5%)
+Night       Pelipper (20%), Floatzel (20%), Gastrodon (15%), Golduck (10%), Vileplume (10%), Zangoose (10%), Seviper (10%), Togetic(S) (5%)
+Surf		Sealeo (60%), Lapras (30%), Wailmer (10%)
+Worm Lure	Gyarados (60%), Walrein (30%), Wailord (10%)
+Berry Lure	Wailord (60%), Lapras (30%), Walrein (10%)
+Fish Lure	Walrein (60%), Gyarados (30%), Lapras (10%)
+
+Stark Mountain (Outside)
+Levels: 66 - 68 (Walking)
+==================================================================================================================================
+Morning     Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Lairon(S) (10%), Magmar (10%), Torkoal (10%)
+Day         Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Lairon(S) (10%), Magmar (10%), Torkoal (10%)
+Night       Fearow (20%), Rhydon (20%), Camerupt (10%), Machoke (10%), Skarmory (10%), Lairon(S) (10%), Magmar (10%), Torkoal (10%)
+
+Stark Mountain (Entrance)
+Levels: 67 - 69 (Walking)
+==================================================================================================================================
+Morning     Golbat (20%), Rhydon (20%), Aggron(S) (10%), Golem (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Day         Golbat (20%), Rhydon (20%), Aggron(S) (10%), Golem (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+Night       Golbat (20%), Rhydon (20%), Aggron(S) (10%), Golem (10%), Machoke (10%), Weezing (10%), Muk (10%), Torkoal (10%)
+
+Stark Mountain (Interior)
+Levels: 67 - 69 (Walking), 100 (1% encounter)
+==================================================================================================================================
+Morning     Aggron(S) (21%), Rhydon (20%), Golbat (10%), Golem (10%), Machoke (10%), Weezing (10%), Torkoal (10%), Muk (9%)
+Day         Aggron(S) (21%), Rhydon (20%), Golbat (10%), Golem (10%), Machoke (10%), Weezing (10%), Torkoal (10%), Muk (9%)
+Night       Aggron(S) (21%), Rhydon (20%), Golbat (10%), Golem (10%), Machoke (10%), Weezing (10%), Torkoal (10%), Muk (9%)

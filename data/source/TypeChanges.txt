@@ -1,0 +1,117 @@
+o-----------------------------------o
+| Pokémon Altered Platinum          |
+| Type Changes (r1.0.5)             |
+| Original hack by Drayano          |
+o-----------------------------------o
+
+=========================================================
+General Changes
+=========================================================
+- Fairy-type is now in the game, replacing what was previously the ??? type.
+- All Pokémon that are Fairy-type in Gen VI onwards are also Fairy-type in Altered Platinum.
+- Rotom's five alternate forms take the secondary type that they have in the Gen V games and onward (they are not Ghost-type like the normal Platinum).
+- As in Generation VI games and onward, Steel takes 1x damage from Dark and Ghost attacks.
+- Some fossil Pokemon are no longer Rock-type. If I think the type benefitted them, it remained.
+
+=========================================================
+Ice Type Changes
+=========================================================
+- Ice is the only type which has had its relations changed from vanilla- this is because I feel Ice is a grossly underpowered type.
+- The changes made were chosen both for thematic and gameplay reasons. Ice's resistances do not nerf already-underpowered offensive types.
+- With these changes, Ice is still weak to the common Fire and Fighting, plus Steel, but its key resistances to popular attacking types give Ice a real
+chance to take on a defensive role. Ground, Water and Dragon are very common offensive types without a lot of competition- and they are all,
+at least on offense, perhaps better than they deserve to be. With Ice resisting these, but still being weak to a couple of popular types as before,
+it is balanced out, and allows for more interesting things to be done with the type as a whole.
+- Keeping type chart changes limited to Ice also makes it easier to remember.
+
+Ice now takes 0.5x from Ground.
+Ice now takes 1x from Rock.
+Ice now takes 0.5x from Water.
+Ice now takes 0.5x from Dragon.
+
+Ground: It is weak to Ice.
+
+Rock: To remove Ice's crippling weakness to Stealth Rock. Also, ice is often responsible for erosion alongside water- due to freezing water expanding,
+widening cracks and weakening stone. Ice remains 1x against Rock offensively, but I feel it really doesn't need a weakness to it.
+
+Water: Ice is solidified water, giving it an elemental relation to Water. Also, Water needed to be taken down a peg somehow.
+
+Dragon: It is weak to Ice. As well, many Dragon-types can use Fire moves, and with Ice's old weakness to Rock- a type which Dragons can also often use-
+it made Ice a very bad answer to Dragon, even though it's supposed to be useful versus it.
+This resistance is coveted for any type that has it.
+
+=========================================================
+Pokémon Type Changes
+=========================================================
+
+Pokémon                 Old Type            New Type                Justification
+---                     ---                 ---                     ---
+#006 Charizard          Fire / Flying       Fire / Dragon           Inherited from Mega form; draconic appearance.
+#019 Rattata            Normal              Normal / Dark           Honestly shouldn't need an Alola form to justify a Dark type.
+#020 Raticate           Normal              Normal / Dark           Honestly shouldn't need an Alola form to justify a Dark type.
+#024 Arbok              Poison              Poison / Dragon         It's a reptile; helps it stand out
+#038 Ninetales          Fire                Fire / Fairy            Inherited from Alola form; generally quite 'mystical' in appearance.
+#055 Golduck            Water               Water / Psychic         Canonically uses Psychic-type moves; commonly mistaken as a Psychic type.
+#074 Geodude			Rock / Ground		Rock					Doesn't really need the Ground type and it isn't integral to its theming- removes some 4x weaknesses
+#075 Graveler			Rock / Ground		Rock					Doesn't really need the Ground type and it isn't integral to its theming- removes some 4x weaknesses
+#076 Golem				Rock / Ground		Rock / Dragon			Appears to be a lizard reptile thing in a boulder- unique, makes it viable over Rhyperior and just a cool type
+#083 Farfetch'd         Normal / Flying     Fighting / Flying       Able to attack using leek as a weapon; gives it a niche over Normal/Flying Pokémon.
+#097 Hypno				Psychic				Psychic / Dark			Sinister nature, for uniqueness
+#098 Krabby				Water				Water / Bug				Krabby and Kingler are arthropods, the type is good and makes it unique, other crustaceans have been Bug type before (Dwebble/Crustle)
+#099 Kingler			Water				Water / Bug				Krabby and Kingler are arthropods, the type is good and makes it unique, other crustaceans have been Bug type before (Dwebble/Crustle)
+#115 Kangaskhan         Normal              Normal / Dragon         Reptilian appearance(despite marsupial inspiration), Monster egg group
+#127 Pinsir             Bug                 Bug / Ground            Stag beetles are known to burrow; Pinsir is said to do so on cold nights.
+#140 Kabuto             Rock / Water        Bug / Water             Based on the horseshoe crab and trilobite; ancient sea arthropods. Part of removing Rock from most fossil Pokemon.
+#141 Kabutops           Rock / Water        Bug / Water             Based on the horseshoe crab and trilobite; ancient sea arthropods. Part of removing Rock from most fossil Pokemon.
+#154 Meganium           Grass               Grass / Fairy           Heavy on the flower aesthetic; heavily voted for by community.
+#160 Feraligatr         Water               Water / Dark            Looks intimidating; Pokédex claims it to be savage; voted for by the community.
+#166 Ledian				Bug / Flying		Bug / Fighting			Canonically has Iron Fist and plenty of punches, superhero inspiration, Bug/Flying is a cruel curse
+#182 Bellossom			Grass				Grass / Fairy			Cute design, unique typing, already learns moves like Magical Leaf and Moonblast
+#192 Sunflora			Grass				Grass / Fire			Sun-themed, unique typing, Sunflora utterly fails to stand out
+#200 Misdreavus         Ghost               Ghost / Fairy           Design inspiration from mythological creatures; mischevious nature; evolved form has a witch aesthetic.
+#203 Girafarig          Normal / Psychic    Fairy / Dark            Themed around polar opposites, half is dark and half is light.
+#210 Granbull           Fairy               Fairy / Fighting        Threatening appearance, learns many Fighting moves already.
+#224 Octillery			Water				Water / Fire			Based on a tank, can learn fire moves, improves uniqueness
+#234 Stantler			Normal				Normal / Psychic		Its antlers are said to have strange mind-affecting powers; improves uniqueness.
+#254 Sceptile           Grass               Grass / Dragon          Inherited from Mega form; commonly requested.
+#284 Masquerain         Bug / Flying        Bug / Water             Pre-evolution has Water type; Bug/Water is a fairly unique type combo; still looks a lot like Surskit.
+#291 Ninjask			Bug / Flying		Bug / Dark				Ninja-themed and unique, only shared by Sinnohan Ariados- Bug/Flying is still terrible, I feel Ninjask deserves more than Baton Passing boosts
+#300 Skitty				Normal				Normal / Fairy			It's a cute, fluffy Pokemon- and it already learns a lot of Fairy moves. Helps to expand the type.
+#301 Delcatty			Normal				Normal / Fairy			It's a cute, fluffy Pokemon- and it already learns a lot of Fairy moves. Helps to expand the type.
+#313 Volbeat            Bug                 Bug / Electric          Learns a lot of Electric attacks; has illumination powers; design looks fititng for Electric.
+#314 Illumise           Bug                 Bug / Fairy             Firefly lights look similar to how other games display the Fairy-type; counterpart to Volbeat.
+#321 Wailord            Water               Water / Flying          Wailord is so light it would float in air; it's based on a blimp. Water/Flying offers some neat perks defensively.
+#335 Zangoose           Normal              Normal / Dark           Hostile-looking, fits with Seviper's new Dark type
+#336 Seviper            Poison              Poison / Dark           Evil and intimidating looking; gives it more of a niche; common request by community.
+#345 Lileep             Rock / Grass        Water / Grass           Based on the sea lily, an ancient crinoid. Part of removing Rock from most fossil Pokemon.
+#346 Cradily            Rock / Grass        Water / Grass           Based on the sea lily, an ancient crinoid. Part of removing Rock from most fossil Pokemon.
+#347 Anorith            Rock / Bug          Water / Bug             Based on anomalocaris, an ancient sea arthropod. Part of removing Rock from most fossil Pokemon.
+#348 Armaldo            Rock / Bug          Water / Bug             Based on anomalocaris, an ancient sea arthropod. Part of removing Rock from most fossil Pokemon.
+#350 Milotic            Water               Water / Fairy           Elegant aesthetic and mythological mermaid inspiration fit with Fairy-type; heavily voted for by community.
+#353 Shuppet			Ghost				Ghost / Normal			Being based off a plush toy that's been possessed, it makes sense- plus, it's a great type, and it's unique.
+#354 Banette			Ghost				Ghost / Normal			Being based off a plush toy that's been possessed, it makes sense- plus, it's a great type, and it's unique.
+#358 Chimecho           Psychic             Fairy / Flying          Inspired by furin, Japanese wind chimes that are hung in Shinto shrines. Furin are said to ward off evil spirits, predict disasters, and bring luck.
+#362 Glalie             Ice                 Ice / Rock              Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo.
+#367 Huntail            Water               Water / Dark            Hostile appearance, already learns many Dark-type moves and has a focus on biting.
+#368 Gorebyss			Water				Water / Poison			Despite appearing cute, it's said to be cruel and sucks prey's innards out. Real life long-nosed chimaeras are mildly venomous.
+#370 Luvdisc            Water               Water / Fairy           Heart and love aesthetic fits with Fairy-type; makes it just a little more noticeable.
+#389 Torterra           Grass / Ground      Grass / Rock            It still fits the concept quite well, and is far superior to Grass/Ground on both defense and offense. Also serves as a neat justification for Accelerock.
+#402 Kricketune			Bug					Bug / Normal			STAB for Hyper Voice and Boomburst- closest thing to a Sound type- unique, no downsides for offense, DELELELE WHOOOOP
+#405 Luxray             Electric            Electric / Dark         Intimidating look and general dark coloured aesthetic fit with Dark-type; unique type combo.
+#408 Cranidos           Rock                Dragon / Rock           Japan often equates dinosaurs to dragons. Has a hard, thick skull.
+#409 Rampardos          Rock                Dragon / Rock           Japan often equates dinosaurs to dragons. Has a hard, thick skull.
+#410 Shieldon           Rock / Steel        Dragon / Steel          Japan often equates dinosaurs to dragons. MUCH better defensively. Part of removing Rock from most fossil Pokemon.
+#411 Bastiodon          Rock / Steel        Dragon / Steel          Japan often equates dinosaurs to dragons. MUCH better defensively. Part of removing Rock from most fossil Pokemon.
+#417 Pachirisu			Electric			Electric / Fairy		It's cute and friendly, the type is unique and it helps make it more interesting alongside its other buffs
+#421 Cherrim            Grass               Grass / Fairy           Incredibly mediocre normally, has a flower theme, part of the Fairy egg group.
+#428 Lopunny            Normal              Normal / Fighting       Inherited from Mega form; has a humanoid appearance and learns lots of Fighting-type moves naturally.
+#429 Mismagius          Ghost               Ghost / Fairy           Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche.
+#432 Purugly			Normal				Normal / Dark			It is said to be selfish and greedy in dex entries, overall has an unfriendly theme.
+#433 Chingling          Psychic             Fairy                   Based on a Suzu bell, which is used at Shinto shrines. These bells are said to repel evil and bring positive power, so Fairy seems more appropriate.
+#457 Lumineon			Water				Water / Flying			It learns many Flying-type moves, and appears to be based on a butterfly. Works as a 'flying fish'.
+#466 Electivire         Electric            Electric / Fighting     Stats are physically focused; learns lots of Fighting moves naturally; Pokédex states it uses fists.
+#469 Yanmega			Bug / Flying		Bug / Dragon			DRAGONfly, it's a pun; makes it more unique and frees it from the burden of Bug/Flying
+#476 Probopass			Rock / Steel		Rock / Electric			Has a magnetic theme and learns lots of Electric moves, Rock/Steel is terrible and Rock/Electric is unique and better
+#480 Uxie               Psychic             Psychic / Fairy         Likely inspired by a pixie, a mythological creature.
+#481 Mesprit            Psychic             Psychic / Fairy         Likely inspired by a sprite, a mythological creature.
+#482 Azelf              Psychic             Psychic / Fairy         Likely inspired by a pixie (possibly a gnome..?), a mythlogical creature.

@@ -1,0 +1,32 @@
+{
+  "name": "altered-platinum-codex",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive companion site for the Pokemon Altered Platinum ROM hack documentation.",
+  "scripts": {
+    "baseline": "node scripts/fetch-baseline.mjs",
+    "data": "node scripts/build-data.mjs",
+    "check:contract": "tsc --noEmit --strict --target ES2022 --lib ES2022,DOM --module ESNext --moduleResolution bundler --resolveJsonModule --skipLibCheck --allowImportingTsExtensions scripts/contract-check.ts",
+    "sprites": "node scripts/fetch-sprites.mjs",
+    "dev": "vite",
+    "build": "npm run data && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "fuse.js": "^7.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}
