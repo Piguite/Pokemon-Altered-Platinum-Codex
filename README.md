@@ -29,7 +29,7 @@ filters and search.
 | `#/` | Dashboard: key figures, the author's general notes grouped by document, entry points |
 | `#/pokemon`, `#/pokemon/<slug>` | All 493 Pokémon: types, base stats (old vs new, plus the resolved `baseStats`), abilities, held items, learnsets, forms |
 | `#/sinnohan`, `#/sinnohan/<slug>` | The 65 Sinnohan regional forms, with the vanilla typing and stats they replace |
-| `#/types` | The Ice type-chart rework, the 134 documented type changes plus the 65 Sinnohan forms that retype their species (134 entries in all), with the author's own type-chart image |
+| `#/types` | The Ice type-chart rework, the 69 documented type changes plus the 65 Sinnohan forms that retype their species (134 entries in all), with the author's own type-chart image |
 | `#/moves` | 29 move replacements, 10 new moves, 85 numeric-modification records (76 single-move + 9 grouped) |
 | `#/items` | Costs, TMs, mart stock, item/TM/plate locations, replaced items |
 | `#/evolutions` | Item-interaction, level and method evolution changes |
