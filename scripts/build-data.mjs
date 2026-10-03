@@ -484,15 +484,32 @@ function main() {
     counts: {
       documents: documents.length,
       pokemon: pokemon.length,
-      pokemonWithTypeChange: pokemon.filter((p) => p.type).length,
-      pokemonWithStatChange: pokemon.filter((p) => p.stats).length,
-      pokemonWithAbilityChange: pokemon.filter((p) => p.ability).length,
+      /*
+       * Counted from `changeKinds`, not from the presence of a documented
+       * `type` block, so the dashboard tile and the "Type" facet chip on
+       * #/pokemon can never disagree. The two figures differ because a Sinnohan
+       * form retypes the species it replaces without `TypeChanges.txt`
+       * mentioning it: 69 rows are documented there and 65 Sinnohan forms also
+       * retype — 134 in total. `typeChangeEntries` keeps the documented-rows
+       * figure for the Types page.
+       */
+      pokemonWithTypeChange: pokemon.filter((p) => p.changeKinds.includes('type')).length,
+      /*
+       * Counted from `changeKinds` too, for the same reason as `type` above:
+       * `#/pokemon`'s facet chips filter on `changeKinds`, and a Pokémon whose
+       * stat or ability change lives only in a form variant carries the kind
+       * without a top-level `stats`/`ability` block. Counting the blocks made
+       * these two drift one behind the facets (231 vs 232, 314 vs 315).
+       */
+      pokemonWithStatChange: pokemon.filter((p) => p.changeKinds.includes('stats')).length,
+      pokemonWithAbilityChange: pokemon.filter((p) => p.changeKinds.includes('ability')).length,
       sinnohan: sinnohan.length,
       typeChangeEntries: typeChanges.pokemonChanges.length,
       typeChartChanges: typeChanges.chartChanges.length,
       moveReplacements: moves.replacements.length,
       newMoves: moves.newMoves.length,
-      moveModifications: moves.modifications.length,
+      /** Single-move and grouped records combined — the count the Moves page shows. */
+      moveModifications: moves.modifications.length + moves.groupModifications.length,
       costChanges: items.costChanges.length,
       trainerAreas: trainers.areas.length,
       trainers: trainers.areas.reduce((n, a) => n + a.trainers.length + a.rematches.length, 0),

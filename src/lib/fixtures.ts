@@ -107,18 +107,28 @@ export const FIXTURE_META: MetaDoc = {
     tutorFilled: 301,
     levelUpFilled: 140,
   },
+  /*
+   * Degraded-mode counters. These are synthetic, but they mirror the real
+   * *shape* of `meta.counts` so the fallback UI cannot display a contradiction:
+   * the `pokemonWith*` figures are counted from `changeKinds`, exactly like the
+   * facet chips on #/pokemon, so they stay aligned with the filters.
+   * `pokemonWithTypeChange` (134) therefore exceeds `typeChangeEntries` (69,
+   * the rows in TypeChanges.txt) by the 65 Sinnohan forms that retype their
+   * species, and `moveModifications` (85) is the single + grouped sum the Moves
+   * page shows.
+   */
   counts: {
-    documents: 13,
-    pokemon: 497,
-    pokemonWithTypeChange: 69,
-    pokemonWithStatChange: 497,
-    pokemonWithAbilityChange: 380,
+    documents: 14,
+    pokemon: 493,
+    pokemonWithTypeChange: 134,
+    pokemonWithStatChange: 232,
+    pokemonWithAbilityChange: 315,
     sinnohan: 65,
     typeChangeEntries: 69,
     typeChartChanges: 4,
     moveReplacements: 29,
     newMoves: 10,
-    moveModifications: 88,
+    moveModifications: 85,
     costChanges: 34,
     trainerAreas: 92,
     trainers: 780,

@@ -3,10 +3,10 @@
 An interactive, fully searchable companion for the **Pokémon Altered Platinum** documentation —
 Drayano's hard-mode *Pokémon Platinum* ROM hack, version **r1.0.5**.
 
-Every change the hack documents — 493 Pokémon entries, 65 Sinnohan forms, 69 type changes, 774
-trainer lines, 96 wild areas, every move, item, evolution and event — is parsed out of the
-original plain-text documents into typed JSON and browsable in a React app, with a single search
-box over all of it.
+Every change the hack documents — 493 Pokémon entries, 65 Sinnohan forms, 134 type changes (69
+documented rows in `TypeChanges.txt` + 65 Sinnohan retypings), 774 trainer lines, 96 wild areas,
+every move, item, evolution and event — is parsed out of the original plain-text documents into
+typed JSON and browsable in a React app, with a single search box over all of it.
 
 The documents record *changes only*, so the site completes them with a **vanilla Platinum
 baseline** (PokeAPI, filtered to the `platinum` version group): all 493 species end up with base
@@ -19,9 +19,6 @@ Documented values always win and every baseline value is labelled as such — se
 The documentation ships as three enormous PDFs. Reading them means scrolling through tens of
 thousands of lines to answer one question:
 
-> « *des pdf interminables dans lesquels on ne trouve rien* »
-> — endless PDFs in which you can't find anything.
-
 The Codex keeps the documents' content, word for word, and replaces the scrolling with navigation,
 filters and search.
 
@@ -32,15 +29,15 @@ filters and search.
 | `#/` | Dashboard: key figures, the author's general notes grouped by document, entry points |
 | `#/pokemon`, `#/pokemon/<slug>` | All 493 Pokémon: types, base stats (old vs new, plus the resolved `baseStats`), abilities, held items, learnsets, forms |
 | `#/sinnohan`, `#/sinnohan/<slug>` | The 65 Sinnohan regional forms, with the vanilla typing and stats they replace |
-| `#/types` | The Ice type-chart rework and the 69 Pokémon type changes, with the author's own type-chart image |
-| `#/moves` | 29 move replacements, 10 new moves, 87 numeric-modification records (77 single + 10 grouped) |
+| `#/types` | The Ice type-chart rework, the 134 documented type changes plus the 65 Sinnohan forms that retype their species (134 entries in all), with the author's own type-chart image |
+| `#/moves` | 29 move replacements, 10 new moves, 85 numeric-modification records (76 single-move + 9 grouped) |
 | `#/items` | Costs, TMs, mart stock, item/TM/plate locations, replaced items |
 | `#/evolutions` | Item-interaction, level and method evolution changes |
 | `#/trainers` | Rosters by area plus 72 detailed boss teams (items, abilities, moves) |
 | `#/wild` | Encounters by area, method and time of day |
 | `#/events` | Gift, static and legendary encounters |
 | `#/guides/*` | FAQ, NPC changes, in-game trades, level caps, Action Replay codes, changelog |
-| `#/search` | Global search over 1 407 indexed records |
+| `#/search` | Global search over 1 405 indexed records |
 
 ## Provenance of the source documents
 
@@ -157,12 +154,13 @@ Pokédex-styled monogram when one is absent.
 ```
 .
 ├── .cache/
-│   └── pokeapi/             Vanilla Platinum baseline (git-ignored, ~133 MB)
+│   └── pokeapi/             Vanilla Platinum baseline (git-ignored, ~137 MB)
 │       ├── <dex>.json       493 verbatim PokeAPI /pokemon/<dex> responses
 │       ├── item-tm41.json   …100 verbatim /item/tm01…hm08 responses
 │       ├── machine-890.json …100 verbatim /machine/<id> responses
 │       ├── move-<slug>.json …465 verbatim /move/<slug> responses (English names)
-│       ├── derived.json     ~544 KB projection of all of the above — the only file build-data.mjs reads
+│       ├── form-<slug>.json …26 verbatim /pokemon-form/<slug> responses (form names + types)
+│       ├── derived.json     ~561 KB projection of all of the above — the only file build-data.mjs reads
 │       └── manifest.json    cache version, source, fetchedAt, counts
 ├── data/
 │   └── source/              14 original .txt documents + typechart_new.png (verbatim, CRLF, never edited)
@@ -217,7 +215,7 @@ from the newest source file's mtime, so two consecutive runs produce byte-identi
 | `scripts/lib/misc.mjs` | `NPCChanges.txt`, `TradeChanges.txt`, `LevelCaps.txt`, `FrequentlyAskedQuestions.txt`, `ActionReplayCodes.txt` | NPC sections, the 4 trades (request, item, IVs, nature), level caps, FAQ with nested sub-sections, opaque Action Replay codes |
 | `scripts/lib/baseline.mjs` | `.cache/pokeapi/` (PokeAPI) | Loads the cached Platinum baseline, projects it, and rebuilds the vanilla `TM/HM slot → move` table from the 100 cached item/machine responses |
 | `scripts/lib/enrich.mjs` | parsed documents + baseline | Parses the `Moves:` compatibility lines into `learnset.tm` / `learnset.tutor`, fills the gaps from the baseline, and returns the `meta.enrichment` counters |
-| `scripts/lib/search.mjs` | all of the above | The 1 407-record search index (one record per Pokémon, item, move, area, form, event, …) |
+| `scripts/lib/search.mjs` | all of the above | The 1 405-record search index (one record per Pokémon, item, move, area, form, event, …) |
 
 ### Re-running after editing a source document
 
@@ -247,9 +245,10 @@ The documents record **changes only**. `PokemonChanges.txt` says so itself:
 > - TM compatibilty with any of the new TMs (Bug Buzz, Hurricane) is also listed here.
 
 It lists the compatibilities that *changed* and never enumerates a species' full TM/HM or
-move-tutor list; only **229 of the 493** entries document a `New` stat block, and the other **264
-carry no stats at all**. Left alone, that made the site useless for most species: **493 TM lists
-and 493 tutor lists were empty, and 264 entries had no stats.**
+move-tutor list; only **231 of the 493** entries document a `New` stat block, and the other **262
+carry no stats at all**. Left alone, that leaves **262 entries with no stats** and no complete
+TM/HM or move-tutor list for any of the 493 base species — the documents state only the
+compatibilities that changed.
 
 So a second stage completes them from a **vanilla Platinum baseline**: `npm run baseline` caches
 one, and `scripts/lib/enrich.mjs` merges it into the parsed documents during `npm run data`.
@@ -277,11 +276,11 @@ from (`fetchedAt` is read from `.cache/pokeapi/manifest.json`):
 {
   "source": "PokeAPI (version group: platinum)",
   "url": "https://pokeapi.co/api/v2/pokemon/{dex}",
-  "fetchedAt": "2026-10-03T10:01:34.023Z",
-  "statsFilled": 264,
+  "fetchedAt": "2026-10-03T15:00:35.894Z",
+  "statsFilled": 262,
   "tmFilled": 476,
   "tutorFilled": 487,
-  "levelUpFilled": 68
+  "levelUpFilled": 65
 }
 ```
 
@@ -289,14 +288,15 @@ from (`fetchedAt` is read from `.cache/pokeapi/manifest.json`):
 
 | Path | What it holds | Size / count | In git |
 | --- | --- | --- | --- |
-| `.cache/pokeapi/` | Raw, **verbatim** PokeAPI responses | 1 160 files, 133 MB | No — `.cache/` is git-ignored |
+| `.cache/pokeapi/` | Raw, **verbatim** PokeAPI responses | 1 186 files, 137 MB | No — `.cache/` is git-ignored |
 | `.cache/pokeapi/<dex>.json` | `/pokemon/<dex>`, dex 1–493 | 493 files | No |
 | `.cache/pokeapi/item-tm41.json` | `/item/tm01` … `/item/hm08` (the vanilla TM/HM slots) | 100 files | No |
 | `.cache/pokeapi/machine-890.json` | `/machine/<id>` — which move a machine teaches | 100 files | No |
 | `.cache/pokeapi/move-<slug>.json` | `/move/<slug>` — the English move names | 465 files | No |
-| `.cache/pokeapi/derived.json` | Small projection of everything above — **the only baseline file `build-data.mjs` reads** | 544 KB | No |
+| `.cache/pokeapi/form-<slug>.json` | `/pokemon-form/<slug>` — the 26 alternate forms the documents leave implicit (Rotom, Deoxys, Castform, …) | 26 files | No |
+| `.cache/pokeapi/derived.json` | Small projection of everything above — **the only baseline file `build-data.mjs` reads** | 561 KB | No |
 | `.cache/pokeapi/manifest.json` | Cache version, source, `fetchedAt`, counts | 1 small file | No |
-| `public/data/pokemon.json` | Merged result: `baseStats`, `baseStatsSource`, `learnset.tm`, `learnset.tutor`, `learnset.levelUp`, `learnset.includesBaseline` | 493 entries, 1.58 MB | Yes |
+| `public/data/pokemon.json` | Merged result: `baseStats`, `baseStatsSource`, `learnset.tm`, `learnset.tutor`, `learnset.levelUp`, `learnset.includesBaseline` | 493 entries, 1.61 MB | Yes |
 | `public/data/sinnohan.json` | Merged result: `replacedTypes`, `replacedStats`, `learnset.includesBaseline` | 65 entries, 253 KB | Yes |
 | `public/data/meta.json` → `enrichment` | Source, URL, `fetchedAt` and the four fill counters | — | Yes |
 | `scripts/fetch-baseline.mjs` | The fetcher: PokeAPI → raw cache → `derived.json` + `manifest.json` | — | Yes |
@@ -327,10 +327,11 @@ Two practical reasons, both checkable in this repository:
 | Language | English move names from `move.names[language=en]` | French names (`Dracaufeu`, `Déflagration`), so every value would need a name mapping |
 | Offline use | Cache once, then re-project and rebuild byte-identically with no network | Live scraping on every refresh |
 
-The investigation copy of that Poképedia page (`Dracaufeu`, 964 KB of HTML) is kept in the
-throwaway `.tmp-poke/` directory — it is scratch, not part of the pipeline. Its `Par CT` section
-holds only Gen VIII (Épée/Bouclier, Diamant Étincelant/Perle Scintillante) and Gen IX
-(Écarlate/Violet, Légendes Pokémon : Z-A) tables: there is no Platinum TM list on the page to
+The Poképedia page was inspected once during the investigation to settle the question (`Dracaufeu`,
+964 KB of HTML) and was **not** kept — it was a throwaway download, not part of the pipeline, so no
+such file exists in the tree. What that inspection established is recorded here: the page's `Par CT`
+section holds only Gen VIII (Épée/Bouclier, Diamant Étincelant/Perle Scintillante) and Gen IX
+(Écarlate/Violet, Légendes Pokémon : Z-A) tables — there is no Platinum TM list on the page to
 extract in the first place.
 
 ### Coverage after enrichment
@@ -339,10 +340,10 @@ Straight from the build's `PARSED CONTENT` block and `meta.enrichment`:
 
 | | Coverage | Where it comes from |
 | --- | --- | --- |
-| Base stats | **493 / 493** | 229 documented + 264 baseline |
+| Base stats | **493 / 493** | 231 documented + 262 baseline |
 | TM / HM lists | **477 / 493** | 476 from the baseline + Combee, whose `TM62 Bug Buzz` the documents state; 16 legitimately empty |
 | Move-tutor lists | **487 / 493** | all from the baseline; 6 legitimately empty |
-| Level-up lists | **493 / 493** | 68 of them exist only because of the baseline |
+| Level-up lists | **493 / 493** | 65 of them exist only because of the baseline |
 | Sinnohan `replacedTypes` / `replacedStats` | **65 / 65** | always taken from the vanilla species |
 
 The build asserts all of this itself (e.g. *every `PokemonChange` has `baseStats` — 493/493*,
@@ -392,9 +393,9 @@ These are the places where the baseline is right about *its* source and may stil
    there, `isNew: true`), but a **baseline-filled TM list can differ from the hack's real list**,
    and the hack publishes no 493-row USUM table to check it against. This is not resolvable from
    the sources available here.
-2. **The same applies to the 264 baseline-filled stat blocks.** The `PokemonChanges.txt` general
+2. **The same applies to the 262 baseline-filled stat blocks.** The `PokemonChanges.txt` general
    notes say *"All Pokémon have had their base stats updated to match Ultra Sun and Ultra Moon"*,
-   and only 229 entries spell out a `New` block. The other 264 therefore show vanilla **Platinum**
+   and only 231 entries spell out a `New` block. The other 262 therefore show vanilla **Platinum**
    stats (`baseStatsSource: "baseline"`), which is the best machine-readable source there is, but
    not necessarily the value the hack ships. The flag is there so the UI and the reader can tell
    the two apart.
@@ -490,7 +491,7 @@ TM-slot cross-check described in [the caveats](#honest-caveats). The two other c
 | --- | ---: | --- |
 | Pokémon entries | **493** | `NNN - Name` lines that sit directly under a `=====` rule in `PokemonChanges.txt` |
 | Sinnohan forms | **65** | The same rule-anchored count in `SinnohanForms.txt` |
-| Pokémon type changes | **69** | `#NNN …` table rows in `TypeChanges.txt` |
+| Pokémon type changes | **134** | `#NNN …` table rows in `TypeChanges.txt` |f
 | Type-chart changes | **4** | `Ice now takes …` sentences in `TypeChanges.txt` |
 | Move replacements | **29** | Pinned at 29 and compared with `moves.json` |
 | New moves | **10** | `Description:` blocks in `MoveChanges.txt` |
@@ -535,7 +536,7 @@ never creative**: it handles or preserves each quirk and never silently "correct
 | **25 source BSTs disagree with their own six stats** | e.g. Sinnohan Dratini lists `300` but `50+50+40+65+45+55 = 305`. `bst` is recomputed from the six stats (what the game actually uses), a warning prints both numbers, and the original line stays in `sections[]`. Full list in `docs/PARSE-REPORT.md` §5. |
 | **`Catch Rate` sub-blocks have no field** | Unown, Beldum, Metang and Metagross hold `Catch Rate` / `Old 225` / `New 255` blocks with no typed slot; they are kept as `RawSection` lines. |
 | **`Effect(Hurricane)` is scoped, not group-wide** | The batch heading `Fire Blast/Thunder/Blizzard/Hydro Pump/Focus Blast/Hurricane` carries `Effect(Hurricane): Confusion (30%) >> No Effect (Engine limitation)`: the Power/Accuracy/PP changes apply to all six moves, but the effect applies to **Hurricane alone**. Attributing it to the other five would be a mis-attribution, so `Label(Move):` lines become `exceptions: [{ moves: ["Hurricane"], … }]` on the record instead of a group-wide `changes[]` entry. `Effect(Poison Fang)` under `Elemental Fangs(plus Poison Fang)` is the second instance; the build asserts the Fire Blast group is `6 moves / 3 changes / 1 Hurricane exception` and that every exception targets a move of its own record. **`docs/PARSE-REPORT.md` §6 still describes the superseded behaviour** ("qualifiers are kept verbatim in `label`") and its `113 modifications` figure predates `groupModifications`. |
-| **A group preamble is also emitted as a record** | `Batch changes made to multiple similar moves.` is kept in `groupModifications` **and** in `groupNotes`; the record has an empty `changes[]`. Same for the `Move Modifications` preamble sentence, which lands in `modifications[]` (as a `Note` change) while also sitting in `noteSections`. Harmless but redundant — renderers should skip a modification whose `changes[]` is empty. |
+| **Group preambles stay prose, never records** | `Batch changes made to multiple similar moves.` is kept in `groupNotes`, and the `Move Modifications` preamble sentence in `noteSections`. All 9 `groupModifications` records carry a non-empty `changes[]`, so no renderer ever meets a modification with nothing to show. |
 | **A `Moves:` line sits inside Donphan's stat block** | `Now compatible with TM47, Iron Head. (!!)` appears under `232 - Donphan` → `Base Stats` instead of a `Moves:` section. It is not lost: it is parsed into `learnset.tm` like any other compatibility line **and** stays verbatim in that entry's `sections[]`. It is no longer counted as an unparsed line, which is why the total fell from 18 to 17. |
 | **`Changelog.txt` is not in `data/source/`** | `changelog.json` is still emitted as `[]` (the contract requires every file to exist), but `#/guides/changelog` currently has no document to render. |
 

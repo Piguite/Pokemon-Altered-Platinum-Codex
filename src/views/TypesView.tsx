@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
 import type { PType } from "../types/data"
 import { cls, matches, plural } from "../lib/format"
-import { keyOf, loadTypeChanges, useData } from "../lib/data"
+import { keyOf, loadMeta, loadTypeChanges, useData } from "../lib/data"
 import { baseMultiplier, formatMultiplier, readableInk, resolveChart, typeColor, TYPE_ORDER } from "../lib/typechart"
 import { Badge, Card } from "../components/ui/Card"
 import { Icon } from "../components/ui/Icon"
@@ -83,6 +83,19 @@ function MatrixCell({
 
 export function TypesView() {
   const { data: doc, loading } = useData(loadTypeChanges)
+  const { data: meta } = useData(loadMeta)
+
+  /*
+   * `TypeChanges.txt` documents 69 retypings; the Sinnohan forms retype their
+   * species on top of that without the document mentioning them. Derived from
+   * the two meta counts rather than hard-coded, so the Types page, the
+   * dashboard tile and the "Type" facet on #/pokemon always reconcile
+   * (69 + 65 = 134).
+   */
+  const sinnohanTypeChanges = Math.max(
+    0,
+    (meta?.counts.pokemonWithTypeChange ?? 0) - (meta?.counts.typeChangeEntries ?? 0),
+  )
   const [mode, setMode] = useState<MatrixMode>('altered')
   const [focusIce, setFocusIce] = useState(false)
   const [selected, setSelected] = useState<Selected | null>({ attacker: 'Ground', defender: 'Ice' })
@@ -126,11 +139,16 @@ export function TypesView() {
     <div className="space-y-8">
       <PageHeader
         title="Types & type chart"
-        subtitle="Fairy replaces ???, Steel takes Dark and Ghost attacks at 1×, and above all: the Ice type has been entirely reworked. The 69 Pokémon whose type changes are listed below, each with the author's justification."
+        subtitle="Fairy replaces ???, Steel takes Dark and Ghost attacks at 1×, and above all: the Ice type has been entirely reworked. The 69 Pokémon whose type change the documentation spells out are listed below, each with the author's justification."
         meta={
           <>
             <Badge tone="accent">{plural(doc?.chartChanges.length ?? 0, 'modified cell')}</Badge>
-            <Badge tone="outline">{plural(doc?.pokemonChanges.length ?? 0, 'type change')}</Badge>
+            <Badge tone="outline">
+              {plural(doc?.pokemonChanges.length ?? 0, 'documented type change')}
+            </Badge>
+            <Badge tone="outline">
+              {plural(sinnohanTypeChanges, 'Sinnohan form')} retyped
+            </Badge>
             <Badge tone="outline">Ice is the only change on the chart</Badge>
           </>
         }

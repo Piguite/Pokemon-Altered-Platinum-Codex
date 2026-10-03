@@ -89,7 +89,8 @@ function MethodBlock({ method, dexOf }: { method: EncounterMethod; dexOf: DexLoo
           {method.method}
         </span>
         <span className="nums font-mono text-[11px] text-ink-faint">
-          {plural(method.slots.length, 'species')} · {total}%
+          {/* `species` is invariant — the default `+s` would render "speciess". */}
+          {plural(method.slots.length, 'species', 'species')} · {total}%
         </span>
       </div>
       <ul className="divide-y divide-line">
@@ -345,7 +346,7 @@ export function WildView() {
         meta={
           <>
             <Badge tone="accent">{plural(areas.length, 'area')}</Badge>
-            {speciesCount > 0 ? <Badge tone="outline">≈ {plural(speciesCount, 'species')}</Badge> : null}
+            {speciesCount > 0 ? <Badge tone="outline">≈ {plural(speciesCount, 'species', 'species')}</Badge> : null}
             {methods.length > 0 ? <Badge tone="outline">{plural(methods.length, 'method')}</Badge> : null}
           </>
         }
